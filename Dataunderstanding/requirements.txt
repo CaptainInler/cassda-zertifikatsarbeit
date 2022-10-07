@@ -3,4 +3,5 @@ pandas==1.5.0
 matplotlib==3.6.0
 geopandas==0.11.1
 contextily==1.2.0
-osm2geojson==0.2.0
+osm2geojson==0.2.1
+SPARQLWrapper==2.0.0
