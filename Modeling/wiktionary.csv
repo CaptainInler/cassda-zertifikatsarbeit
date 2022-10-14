@@ -1,0 +1,1664 @@
+DIC_UID;DIC_PLANTS;DIC_PLA_LANG;DIC_ANIMALS;DIC_ANI_LANG;DIC_PROF;DIC_PRO_LANG;DIC_GEO;DIC_GEO_LANG
+1;Ackergauchheil;DE;Aal;DE;Abbrucharbeiter, Abbrucharbeiterin;DE;Aalenium;DE
+2;Ackerröte;DE;Aalmutter;DE;Abbruchmeister, Abbruchmeisterin;DE;Abbau;DE
+3;Ackerschotendotter;DE;Aalrutte;DE;Abbruchtechniker, Abbruchtechnikerin;DE;Abbaugerechtigkeit;DE
+4;Adelgras;DE;Aaskäfer;DE;Abdecker;DE;Abbauwürdigkeit;DE
+5;Adlerfarn;DE;Aberdeenrind;DE;Abfallbeseitiger, Abfallbeseitigerin;DE;Abbild;DE
+6;Adonisröschen;DE;Abraxas;DE;Abgeordneter, Abgeordnete;DE;Abbildung;DE
+7;Agar-Agar;DE;Abtrittsfliege;DE;ABM-Kraft;DE;Abblasung;DE
+8;Agave;DE;Abtrittsmücke;DE;Abt, Äbtissin;DE;Abbruch;DE
+9;Ährenlilie;DE;Achatschnecke;DE;Abteilungsleiter, Abteilungsleiterin;DE;Abbruchkante;DE
+10;Ahorn;DE;Ackerhummel;DE;Achatschleifer, Achatschleiferin;DE;Abbruchstelle;DE
+11;Akanthus;DE;Ackermaus;DE;Adjutant;DE;Abdachung;DE
+12;Akazie;DE;Ackerschnecke;DE;Administrator, Administratorin;DE;Abdrift;DE
+13;Akelei;DE;Addax;DE;Admiral;DE;Abenddämmerung;DE
+14;Alant;DE;Addax;DE;Änderungsschneider, Änderungsschneiderin;DE;Abendpunkt;DE
+15;Alge;DE;Adeliepinguin;DE;Agent, Agentin;DE;Abendrot;DE
+16;Algenfarn;DE;Adiak;DE;Akrobat, Akrobatin;DE;Abendthermik;DE
+17;Alkanna;DE;Adjutant;DE;Altenpflegehelfer, Altenpflegehelferin;DE;Abendweite;DE
+18;Allermannsharnisch;DE;Adler;DE;Altenpfleger, Altenpflegerin;DE;Aberration;DE
+19;Almrausch;DE;Adlerbussard;DE;Anästhesietechnischer Assistent, Anästhesietechnische Assistentin;DE;Abessinierbrunnen;DE
+20;Aloe;DE;Adlerechse;DE;Änderungsschneider, Änderungsschneiderin;DE;Abfluss;DE
+21;Alpenampfer;DE;Adlerfisch;DE;Angiologe, Angiologin;DE;Abflussgebiet;DE
+22;Alpenrose;DE;Adlerfrerattvogel;DE;Angler, Anglerin;DE;Abflusshöhe;DE
+23;Alpenveilchen;DE;Adlerrochen;DE;Animateur, Animateurin;DE;abflusslos;DE
+24;Amarant;DE;Admiral;DE;Animierdame;DE;Abflussmenge;DE
+25;Amarelle;DE;Adria-Eidechse;DE;Anlageberater, Anlageberaterin;DE;Abflussregime;DE
+26;Ambrosia;DE;Aeneasratte;DE;Anlagenberater;DE;Abflussspende;DE
+27;Ammei;DE;Ährenfisch;DE;Anlagenmechaniker, Anlagenmechanikerin;DE;Abflusstyp;DE
+28;Ammoniacum;DE;Ährenmaus;DE;Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik, Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik;DE;Abgas;DE
+29;Ampfer;DE;Ährenträgerpfau;DE;Ansager, Ansagerin;DE;Abgasrichtlinie;DE
+30;Ananas;DE;Äsche;DE;Anstreicher, Anstreicherin;DE;Abgrusung;DE
+31;Andel;DE;Äskulapnatter;DE;Anwalt, Anwältin;DE;Abhang;DE
+32;Andorn;DE;Affe;DE;Anwaltsgehilfe, Anwaltsgehilfin;DE;abiotisch;DE
+33;Anemone;DE;Affendler;DE;Apothekenhelfer, Apothekenhelferin;DE;Abkopplungsstrategie;DE
+34;Angelika;DE;Affenpinscher;DE;Apparatebauer, Apparatebauerin;DE;Abkühlung;DE
+35;Angosturabaum;DE;Afterrüssler;DE;Arbeiter, Arbeiterin;DE;Abkühlungsgröße;DE
+36;Anis;DE;Afterskorpion;DE;Architekt, Architektin;DE;ablagern;DE
+37;Apfel;DE;Agrion;DE;Archivar, Archivarin;DE;Ablagerung;DE
+38;Aprikose;DE;Aguarachay;DE;Archivassistent, Archivassistentin;DE;ablandig;DE
+39;Araukarie;DE;Agujaadler;DE;Arrangeur, Arrangeurin;DE;Ablation;DE
+40;Arekapalme;DE;Aguti;DE;Artist, Artistin;DE;Abplattung;DE
+41;Aremonie;DE;Ai;DE;Arzt, Ärztin;DE;Abrasion;DE
+42;Armenische Brombeere;DE;Ailanthusspinner;DE;Arzthelfer, Arzthelferin;DE;Abrasion;DE
+43;Arnika;DE;Aitel;DE;Asphaltbauer, Asphaltbauerin;DE;Absatzgestein;DE
+44;Aronstab;DE;Akalima;DE;Assistent, Assistentin;DE;Abschnitt;DE
+45;Artischocke;DE;Akialoa;DE;Assistent für Automatisierungs- und Computertechnik, Assistentin für Automatisierungs- und Computertechnik;DE;Abschöpfung;DE
+46;Arve;DE;Aktäonkäfer;DE;Assistent für den Gesundheitstourismus, Assistentin für den Gesundheitstourismus;DE;Abschuppung;DE
+47;Arznei-Beinwell;DE;Akumba;DE;Assistent für Freizeitwirtschaft, Assistentin für Freizeitwirtschaft;DE;Absentionsrate;DE
+48;Asant;DE;Aland;DE;Assistent für Geovisualisierung, Assistentin für Geovisualisierung;DE;Absetzbecken;DE
+49;Asarine;DE;Alandbleke;DE;Assistent für Hotelmanagement, Assistentin für Hotelmanagement;DE;Absitzen;DE
+50;Aster;DE;Alaskabär;DE;Assistent für Informatik, Assistentin für Informatik (Fachbereiche: allgemeine Informatik, Betriebsinformatik, Medieninformatik, Softwaretechnik, technische Informatik, Wirtschaftsinformatik);DE;absolut;DE
+51;Attich;DE;Albatros;DE;Assistent für Innenarchitektur, Assistentin für Innenarchitektur;DE;Absorption;DE
+52;Aubergine;DE;Alectis;DE;Assistent für Lebensmittelkontrolle, Assistentin für Lebensmittelkontrolle;DE;abspülen;DE
+53;Augentrost;DE;Alektoweber;DE;Assistent für Logistik, Assistentin für Logistik;DE;Abspülung;DE
+54;Aurikel;DE;Alet;DE;Assistent für medizinische Gerätetechnik, Assistentin für medizinische Gerätetechnik;DE;abtragen;DE
+55;Azalee;DE;Alfonsino;DE;Assistent für Produktdesign, Assistentin für Produktdesign;DE;Abtragung;DE
+56;Baldrian;DE;Alligator;DE;Assistent für technische Kommunikation und Dokumentation, Assistentin für technische Kommunikation und Dokumentation;DE;Abwärme;DE
+57;Bärenklau;DE;Alligatorhai;DE;Assistent im Gesundheits- und Sozialwesen, Assistentin im Gesundheits- und Sozialwesen;DE;Abwasser;DE
+58;Bärentraube;DE;Alligatorsalamander;DE;Assistent in der Systemgastronomie, Assistentin in der Systemgastronomie;DE;Abwasserbeseitigung;DE
+59;Bärlapp;DE;Almiqui;DE;Assistent - Maschinenbautechnik, Assistentin - Maschinenbautechnik;DE;Abwind;DE
+60;Bärlauch;DE;Almizilero;DE;Astronaut, Astronautin;DE;abyssisch;DE
+61;Bartnelke;DE;Alpaka;DE;Atem-, Sprech- und Stimmlehrer, Atem-, Sprech- und Stimmlehrerin;DE;Achondrit;DE
+62;Bärwurz;DE;Alpenbär;DE;Aufbereitungsmechaniker, Aufbereitungsmechanikerin (Fachrichtungen: Braunkohle, feuerfeste/keramische Rohstoffe, Naturstein, Sand und Kies, Steinkohle);DE;Achse;DE
+63;Basilienkraut;DE;Alpenbock;DE;Augenarzt, Augenärztin;DE;Ackerbau;DE
+64;Basilikum;DE;Alpenbraunelle;DE;Augenoptiker, Augenoptikerin;DE;Ackerbaugrenze;DE
+65;Baumwollpflanze;DE;Alpendohle;DE;Ausbaufacharbeiter, Ausbaufacharbeiterin;DE;Ackerbürger;DE
+66;Becherpflanze;DE;Alpenfledermaus;DE;Autohändler, Autohändlerin;DE;Ackerfläche;DE
+67;Begonie;DE;Alpenkrähe;DE;Automatenfachfrau, Automatenfachmann;DE;Ackerflächenverhältnis;DE
+68;Beifuß;DE;Alpenmauerläufer;DE;Automechaniker, Automechanikerin;DE;Acker-Grünland-Verhältnis;DE
+69;Beinbrech;DE;Alpenmurmeltier;DE;Automobilkauffrau, Automobilkaufmann;DE;Ackerkrume;DE
+70;Beinwell;DE;Alpenpfeifhase;DE;Autor, Autorin;DE;Ackerland;DE
+71;Benzoe;DE;Alpensalamander;DE;Autoschlosser, Autoschlosserin;DE;Ackernahrung;DE
+72;Berberitze;DE;Alpenschneehase;DE;Autoverkäufer, Autoverkäuferin;DE;adiabatisch;DE
+73;Bergamotte;DE;Alpenschneehuhn;DE;Bäcker, Bäckerin;DE;Administration;DE
+74;Bertram;DE;Alpensegler;DE;Bäckereifachverkäuferin;DE;administrativ;DE
+75;Besenginster;DE;Alpenspitzmaus;DE;Bäckereiverkäufer, Bäckereiverkäuferin;DE;Advektion;DE
+76;Betelpfeffer;DE;Alpensteinbock;DE;Backofenbauer, Backofenbauerin;DE;Advektionswolke;DE
+77;Betonie;DE;Alpenstrandläufer;DE;Bademeister, Bademeisterin;DE;Adventivpflanze;DE
+78;Bibernelle;DE;Alpenwolf;DE;Bader;DE;Aerosol;DE
+79;Bilsenkraut;DE;Alpenwühlmaus;DE;Baggerfahrer, Baggerfahrerin;DE;äolisch;DE
+80;Bingelkraut;DE;Amadine;DE;Bahnangestellte, Bahnangestellter;DE;Äon;DE
+81;Binse;DE;Amazonenameise;DE;Bandagist;DE;Äquator;DE
+82;Birke;DE;Ameise;DE;Bandreißer;DE;Äquatorialluft;DE
+83;Birne;DE;Ameisenbär;DE;Bankkauffrau, Bankkaufmann;DE;Äquatorialregen;DE
+84;Birngrün;DE;Ameisenbeutler;DE;Barbier;DE;Äquatorialsystem;DE
+85;Bischofskraut;DE;Ameisenigel;DE;Bardame;DE;äquidistant;DE
+86;Bitterling;DE;Ameisenjungfern;DE;Barfrau;DE;Äquidistanz;DE
+87;Bitterklee;DE;Ameisenlöwe;DE;Barkeeper;DE;Äquinoktialgegend;DE
+88;Bittersüß;DE;Ameisenvogel;DE;Barmann;DE;Äquinoktialkreis;DE
+89;Blasentang;DE;Ameisewespe;DE;Barmixer;DE;Äquinoktialpunkt;DE
+90;Blaukissen;DE;Amerikanischer Cocker Spaniel;DE;Barpianist;DE;Äquinoktialsturm;DE
+91;Blauregen;DE;Amethiystschlange;DE;Bassist, Bassistin;DE;Äquinoktium;DE
+92;Blutwurz;DE;Amherstfasan;DE;Bauarbeiter, Bauarbeiterin;DE;Ära;DE
+93;Braut in Haaren;DE;Amöbe;DE;Bauer, Bäuerin;DE;aero-;DE
+94;Bockshornklee;DE;Amsel;DE;Baugeräteführer, Baugeräteführerin;DE;aerob;DE
+95;Bohne;DE;Anakonda;DE;Baustoffprüfer, Baustoffprüferin;DE;Aerologie;DE
+96;Bohnenkraut;DE;Anconschaf;DE;Bautechniker, Bautechnikerin;DE;Aerodynamik;DE
+97;Bokharaklee;DE;Anchovis;DE;Bauten- und Objektbeschichter, Bauten- und Objektbeschichterin;DE;Aerofotogrammetrie;DE
+98;Borstgras;DE;Ancylus;DE;Bauwerksabdichter, Bauwerksabdichterin;DE;Aeronomie;DE
+99;Boldo;DE;Andenbär;DE;Bauwerksmechaniker, Bauwerksmechanikerin (für Abbruch und Betontrenntechnik);DE;Aerophysik;DE
+100;Bonsai;DE;Andenhirsch;DE;Bauzeichner, Bauzeichnerin;DE;Aerosol;DE
+101;Borretsch;DE;Anemonenfisch;DE;Beamte, Beamter, Beamtin;DE;Aerotriangulation;DE
+102;Braunelle;DE;Angler;DE;Beauftragte, Beauftragter;DE;Äschenregion;DE
+103;Braunwurz;DE;Angolahase;DE;Bedienung;DE;Ästuar;DE
+104;Brechnuss;DE;Angorakaninchen;DE;Behälter- und Apparatebauer, Behälter- und Apparatebauerin;DE;AFIS;DE
+105;Brechwurzel;DE;Angoraziege;DE;Bekleidungstechnische Assistentin, Bekleidungstechnischer Assistent;DE;Agenda 2000;DE
+106;Brennnessel;DE;Ani;DE;Bereichsleiter;DE;Agenda 21;DE
+107;Brombeere;DE;Anoa;DE;Bergbautechnologe, Bergbautechnologin;DE;Agglomeration;DE
+108;Bruchkraut;DE;Anopheles;DE;Bergführer, Bergführerin;DE;Agglomerationsraum;DE
+109;Brunnenkresse;DE;Ansauger;DE;Bergmann;DE;Agglomerationsvorteil;DE
+110;Bubenstrauch;DE;Anthus;DE;Berg- und Maschinenmann (Fachrichtungen: Transport und Instandhaltung, Vortrieb und Gewinnung);DE;Aggregatzustand;DE
+111;Buche;DE;Antilope;DE;Bergbautechnologe, Bergbautechnologin (Fachrichtungen: Tiefbautechnik, Tiefbohrtechnik);DE;agrar-;DE
+112;Buchsbaum;DE;Anubis-Pavian;DE;Bergvermessungstechniker, Bergvermessungstechnikerin;DE;Agrardreieck;DE
+113;Buchweizen;DE;Apatura;DE;Berufsflugzeugführer, Berufsflugzeugführerin;DE;Agrarexport;DE
+114;Cajeputstrauch;DE;Apella;DE;Berufshubschrauberführer, Berufshubschrauberführerin;DE;Agrargeographie;DE
+115;Calabarstrauch;DE;Apfelblattlaus;DE;Berufskraftfahrer, Berufskraftfahrerin;DE;Agrargesellschaft;DE
+116;Calla;DE;Apfelblattsauger;DE;Beschäftigungs- und Arbeitstherapeut, Beschäftigungs- und Arbeitstherapeutin;DE;Agrarkolonisation;DE
+117;Campecheholz;DE;Apfelwickler;DE;Bestattungsfachkraft;DE;Agrar-Industrie-Komplex;DE
+118;Chicorée;DE;Apollofalter;DE;Betonbauer;DE;Agrarkommunismus;DE
+119;Chinabaum;DE;Ara;DE;Betonfacharbeiter;DE;Agrarland;DE
+120;Chinarinde;DE;Arakanga;DE;Beton- und Stahlbetonbauer, Beton- und Stahlbetonbauerin;DE;Agrarlandschaft;DE
+121;Christrose;DE;Arapaima;DE;Betonfertigteilbauer, Betonfertigteilbauerin;DE;Agrarmeteorologie;DE
+122;Christusdorn;DE;Arawana;DE;Betonstein- und Terrazzohersteller, Betonstein- und Terrazzoherstellerin;DE;Agrarpolitik;DE
+123;Chrysantheme;DE;Archaeopteryx;DE;Bibliothekar (Diplom-B.), Bibliothekarin (Diplom-B.);DE;Agrarprotektionismus;DE
+124;Chrysarobin;DE;Argali;DE;Bierbrauer;DE;Agrarraum;DE
+125;Cimicifuga;DE;Argentinischer Stummelfuß;DE;Bierkutscher;DE;Agrarreform;DE
+126;Citronellgras;DE;Argonauta;DE;Bildhauer, Bildhauerin;DE;Agrarstaat;DE
+127;Clematis;DE;Argusfasan;DE;Binnenschiffer, Binnenschifferin;DE;Agrarstruktur;DE
+128;Comfrey;DE;Arizonasaurus;DE;Biologe, Biologin;DE;Agrarstrukturverbesserung;DE
+129;Cormobionta;DE;Arpiranga-Salmler;DE;Biologielaborant, Biologielaborantin;DE;Agrarsubvention;DE
+130;Dahlie;DE;Aristoteles-Hai;DE;Biologiemodellmacher, Biologiemodellmacherin;DE;Agrarsystem;DE
+131;Dickblatt;DE;Aristoteles-Hirsch;DE;Biologisch-technische Assistentin, Biologisch-technischer Assistent;DE;Agrarverfassung;DE
+132;Dill;DE;Arkal;DE;Biotechnologische Assistentin, Biotechnologischer Assistent;DE;Agrarzoll;DE
+133;Dingel;DE;Ammolch;DE;Bischof, Bischöfin;DE;Agribusiness;DE
+134;Dinkel;DE;Arni;DE;Blechner;DE;Agrobusiness;DE
+135;Diptam;DE;Aronstab-Frosch;DE;Blockwart;DE;agronomisch;DE
+136;Distel;DE;Aruliusbarbe;DE;Bodenleger, Bodenlegerin;DE;Agrostadt;DE
+137;Djambubaum;DE;Aschenhund;DE;Bogenmacher, Bogenmacherin;DE;Agrumen;DE
+138;Donarsbart;DE;Aschkoko;DE;Bootsbauer, Bootsbauerin (Fachrichtungen: 1. Neu-, Aus- und Umbau 2. Technik);DE;A-Horizont;DE
+139;Doppelbeere;DE;Asinus;DE;Börsenmakler;DE;Akklimatisation;DE
+140;Doppelsame;DE;Aspis;DE;Bote, Botin;DE;Akklimatisierung;DE
+141;Dost;DE;Aspisviper;DE;Böttcher, Böttcherin;DE;Akkulturation;DE
+142;Douglasie;DE;Assala;DE;Boxer, Boxerin;DE;Akkumulation;DE
+143;Dreimasterblume;DE;Assapan;DE;Bratscher;DE;AKP-Staat;DE
+144;Drachenbaum;DE;Assel;DE;Bratschist, Bratschistin;DE;Aktinometer;DE
+145;Drachenblutbaum;DE;Asselspinne;DE;Brauer, Brauerin;DE;Aktionszentrum;DE
+146;Drachenkopf;DE;Asselspinner;DE;Brauer und Mälzer, Brauerin und Mälzerin;DE;Aktivraum;DE
+147;Drachenmaul;DE;Astacus;DE;Brenner, Brennerin;DE;Alaska-Strom;DE
+148;Dreidorn;DE;Atlasfink;DE;Briefbote, Briefbotin;DE;Albedo;DE
+149;Dreizack;DE;Atlaslaubenvogel;DE;Briefträger, Briefträgerin;DE;Algonkium;DE
+150;Dreizahn;DE;Atun;DE;Brunnenbauer, Brunnenbauerin;DE;Algorithmus;DE
+151;Dumpalme;DE;Auerhuhn;DE;Brunnenputzer;DE;Alkalimetall;DE
+152;Duwock;DE;Auerochse;DE;Buchbinder, Buchbinderin;DE;ALKIS;DE
+153;Eberesche;DE;Augenfalter;DE;Buchdrucker, Buchdruckerin;DE;Allee;DE
+154;Eberwurz;DE;Augenfleckbuntbarsch;DE;Buchhalter, Buchhalterin;DE;Allerödzeit;DE
+155;Edelweiß;DE;Augenfleckbuntbutte;DE;Buchhändler, Buchhändlerin;DE;Allmende;DE
+156;Efeu;DE;Augengrubennatter;DE;Buchmacher, Buchmacherin;DE;allochthon;DE
+157;Ehrenpreis;DE;Augenpfeiffer;DE;Büchsenmacher, Büchsenmacherin;DE;Allodialbesitz;DE
+158;Eibisch;DE;Augenringwaldsänger;DE;Büchsenspanner, Büchsenspannerin;DE;Allokation;DE
+159;Eiche;DE;Augenspinner;DE;Bühnenmaler, Bühnenmalerin;DE;alluvial;DE
+160;Einbeere;DE;Aurorafalter;DE;Bühnenmaler und Bühnenplastiker, Bühnenmaler und Bühnenplastikerin (Fachrichtungen: 1. Malerei 2. Plastik);DE;Alluvialboden;DE
+161;Einkorn;DE;Auster;DE;Bühnentänzer, Bühnentänzerin;DE;Alluvionen;DE
+162;Eisblume;DE;Austerfisch;DE;Bundeskanzler, Bundeskanzlerin;DE;Alluvium;DE
+163;Eisenhut;DE;Austernfischer;DE;Bundespolizist, Bundespolizistin;DE;Alm;DE
+164;Eisenkraut;DE;Australienkrokodil;DE;Bundespräsident, Bundespräsidentin;DE;Almwirtschaft;DE
+165;Eleutherococcus;DE;Axishirsch;DE;Bundestagspräsident, Bundestagspräsidentin;DE;Alp;DE
+166;Emmer;DE;Axolotl;DE;Bundesrat, Bundesrätin;DE;Alpe;DE
+167;Engelsüß;DE;Aye-Aye;DE;Bundeswehrsoldat, Bundeswehrsoldatin;DE;Alpen-Transitverkehr;DE
+168;Engelwurz;DE;Ayu;DE;Bürokauffrau, Bürokaufmann;DE;Alphabetisierung;DE
+169;Enzian;DE;Azarafuchs;DE;Bürokraft;DE;alpidisch;DE
+170;Ephedra;DE;Babakoto;DE;Bürsten- und Pinselmacher, Bürsten- und Pinselmacherin (Fachrichtungen: 1. Bürstenherstellung 2. Pinselherstellung);DE;alpin;DE
+171;Erdbeerbaum;DE;Babirussa;DE;Busfahrer, Busfahrerin;DE;alpinotyp;DE
+172;Erdbeere;DE;Bache;DE;Butler;DE;Alpinismus;DE
+173;Erdnuss;DE;Bachforelle;DE;Büttel;DE;Alpwirtschaft;DE
+174;Erdrauch;DE;Bachläufer;DE;Butterfrau;DE;Altarm;DE
+175;Erzengelwurz;DE;Bachneunauge;DE;Cartoonist, Cartoonistin;DE;Altbrache;DE
+176;Esche;DE;Bachröhrenwurm;DE;Caterer;DE;Alte Welt;DE
+177;Eselsdistel;DE;Bachsaibling;DE;Cellist, Cellistin;DE;Alternativenergie;DE
+178;Esparsette;DE;Bachsalamander;DE;Chauffeur, Chauffeuse;DE;Altersbestimmung;DE
+179;Estragon;DE;Bachstelze;DE;Chef, Chefin;DE;Alterspyramide;DE
+180;Eukalyptus;DE;Badger;DE;Chefarzt, Chefärztin;DE;Altersstruktur;DE
+181;Euphorbium;DE;Badul;DE;Chefkellner, Chefkellnerin;DE;Altlast;DE
+182;Fabianakraut;DE;Bänderkänguru;DE;Chefkoch, Chefköchin;DE;Altmoräne;DE
+183;Fadenhirse;DE;Bändersandnatter;DE;Chefredakteur, Chefredakteurin;DE;Altmoränenlandschaft;DE
+184;Färberdistel;DE;Bäumchenröhrenwurm;DE;Chemiebetriebsjungwerker, Chemiebetriebsjungwerkerin;DE;Altocumulus;DE
+185;Färberginster;DE;Baikalrobbe;DE;Chemielaborant, Chemielaborantin;DE;Altokumulus;DE
+186;Farn;DE;Baira;DE;Chemielaborjungwerker, Chemielaborjungwerkerin;DE;Altostratus;DE
+187;Faulbaum;DE;Balirind;DE;Chemikant, Chemikantin;DE;Alphabetisierung;DE
+188;Feigenbaum;DE;Balkannatter;DE;Chemiker, Chemikerin;DE;Altschnee;DE
+189;Felberich;DE;Balkenschröter;DE;Chemisch-technischer Assistent, Chemisch-technische Assistentin;DE;Altsiedelland;DE
+190;Feldsalat;DE;Ballschlange;DE;Chirurg, Chirurgin;DE;Altstadt;DE
+191;Feldthymian;DE;Baltimoretrupial;DE;Chirurgiemechaniker, Chirurgiemechanikerin;DE;Altstadtsanierung;DE
+192;Felsenbirne;DE;Bambusbär;DE;Chocolatier, Chocolatiere;DE;Alttertiär;DE
+193;Fenchel;DE;Bambusfingerratte;DE;Choreograf, Choreografin;DE;Altwasser;DE
+194;Fenchelholz;DE;Bambusgeist;DE;Choreograph, Choreographin;DE;Altweibersommer;DE
+195;Fennich;DE;Bananenfrosch;DE;Clown;DE;amphibisch;DE
+196;Ferkelkraut;DE;Bananenlaubfrosch;DE;Coach;DE;Amphidromie;DE
+197;Fetthenne;DE;Bandfink;DE;Custos, Custodin;DE;Amplitude;DE
+198;Fettkraut;DE;Bandiltis;DE;Cutter, Cutterin;DE;Amt;DE
+199;Fichte;DE;Bandmaus;DE;Dachdecker, Dachdeckerin (Fachrichtungen: 1. Dach-, Wand-, und Abdichtungstechnik 2. Reetdachtechnik);DE;amtlich;DE
+200;Fichtenspargel;DE;Bandmolch;DE;Damenschneider, Damenschneiderin;DE;Amtmann;DE
+201;Fieberklee;DE;Bandnatter;DE;Datenbankadministrator, Datenbankadministratorin;DE;Amtssitz;DE
+202;Fingerhut;DE;Bandro;DE;Dekorateur, Dekorateurin;DE;Amtssprache;DE
+203;Fioringras;DE;Bandrobbe;DE;Dekorvorlagenhersteller, Dekorvorlagenherstellerin;DE;amtssprachlich;DE
+204;Fischkraut;DE;Bandwurm;DE;Demograf, Demografin;DE;anagalaktisch;DE
+205;Flachs;DE;Bankivahuhn;DE;Demograph, Demographin;DE;Analphabet;DE
+206;Flatterbinse;DE;Banteng;DE;Denkmaltechnische Assistentin, Denkmaltechnischer Assistent;DE;Analphabetenquote;DE
+207;Flieder;DE;Bär;DE;Dentist, Dentistin;DE;Analphabetismus;DE
+208;Flohsamenkraut;DE;Barasingha;DE;Dermatologe, Dermatologin;DE;Ansicht;DE
+209;Föhre;DE;Barbastella;DE;Designer, Designerin (Fachrichtungen: 1. angewandte Formgebung, Schmuck und Gerät 2. Foto 3. Grafik 4. Kommunikationsdesign 5. Medien 6. Mode);DE;Anbau;DE
+210;Forsythie;DE;Bärbling;DE;Destillateur, Destillateurin;DE;Anbaubeschränkung;DE
+211;Franzosenholz;DE;Barch;DE;Detektiv, Detektivin;DE;Anbaugrenze;DE
+212;Frauenmantel;DE;Bärenbeutler;DE;Devotionalienhändler, Devotionalienhändlerin;DE;Anbaumethode;DE
+213;Frauenschuh;DE;Bärenkänguru;DE;Diakon, Diakonisse;DE;Anbauverhältnis;DE
+214;Frauenspiegel;DE;Bärenmakak;DE;Diamantschleifer, Diamantschleiferin;DE;Anbauzwang;DE
+215;Frauenwurzel;DE;Bärenmaki;DE;Diätassistent, Diätassistentin;DE;Ancylussee;DE
+216;Froschbiss;DE;Bärenpavian;DE;Dichter, Dichterin;DE;Anemometer;DE
+217;Fuchskreuzkraut;DE;Bärenspinner;DE;Dieb, Diebin;DE;Anerbenrecht;DE
+218;Fuchsschwanz;DE;Baribal;DE;Diener, Dienerin;DE;Aneroid;DE
+219;Galbanum;DE;Barrakuda;DE;Dienstmädchen;DE;Anger;DE
+220;Galgant;DE;Barramuda;DE;Dienstmagd;DE;Angerdorf;DE
+221;Gamander;DE;Barrenringelnatter;DE;Dienstmann;DE;Anhöhe;DE
+222;Gänseblümchen;DE;Barrigudo;DE;Diplomat, Diplomatin;DE;anlanden;DE
+223;Gänsefingerkraut;DE;Barsch;DE;Direktionsassistent, Direktionsassistentin;DE;Anlandung;DE
+224;Gänsefuß;DE;Bartaffe;DE;Direktor, Direktorin;DE;Anmoor;DE
+225;Garaus;DE;Bart-Agame;DE;Direktrice;DE;Anökumene;DE
+226;Gartenrose;DE;Bartfledermaus;DE;Dirigent, Dirigentin;DE;Anomalie;DE
+227;Gartenpflanze;DE;Bartkauz;DE;Discjockey;DE;anomalisch;DE
+228;Gauchheil;DE;Bartmeise;DE;Dispatcher, Dispatcherin;DE;Anothermie;DE
+229;Gedenkemein;DE;Bartrobbe;DE;Disponent, Disponentin;DE;Anreicherungshorizont;DE
+230;Geißbart;DE;Bartsaki;DE;DJ, DJane;DE;Anschwemmungsboden;DE
+231;Geißblatt;DE;Bartschwein;DE;Doktor, Doktorin;DE;Anstehendes;DE
+232;Geißraute;DE;Basset;DE;Doktorand, Doktorandin;DE;antezedent;DE
+233;Gelbwurzel;DE;Baßtölpel;DE;Dokumentar, Dokumentarin;DE;Anthrazit;DE
+234;Georgine;DE;Bastardmakrele;DE;Dolmetscher, Dolmetscherin;DE;anthropo-;DE
+235;Geranie;DE;Bastardschildkröte;DE;Dompteur, Dompteuse;DE;anthropogen;DE
+236;Gerste;DE;Batagurschildkröte;DE;Doppelgänger, Doppelgängerin von Schauspielern;DE;Anthropogeographie;DE
+237;Gewürzsumach;DE;Batakpony;DE;Double;DE;Antiklinale;DE
+238;Giftbeere;DE;Bauin;DE;Dozent, Dozentin;DE;Antiklinaltal;DE
+239;Giftsumach;DE;Baumameisenfresser;DE;Drahtwarenmacher, Drahtwarenmacherin;DE;Antipassat;DE
+240;Giftpflanze;DE;Baumfalke;DE;Drahtzieher, Drahtzieherin;DE;Antipode;DE
+241;Ginkgo;DE;Baumfrosch;DE;Drechsler, Drechslerin (Fachrichtungen: 1. Drechseln 2. Elfenbeinschnitzen);DE;Antizyklon;DE
+242;Ginseng;DE;Baumkänguru;DE;Dreher, Dreherin;DE;Antizyklone;DE
+243;Ginster;DE;Baumläuferwaldsänger;DE;Drescher;DE;Anzapfung;DE
+244;Gnadenkraut;DE;Baumleguane;DE;Drogist, Drogistin;DE;aper;DE
+245;Goldlack;DE;Baummarder;DE;Droschkenfahrer, Droschkenfahrerin;DE;Aphel;DE
+246;Goldmelisse;DE;Baumpieper;DE;Droschkenkutscher, Droschkenkutscherin;DE;Apogalaktikum;DE
+247;Goldregen;DE;Baumsalamander;DE;Drucker, Druckerin;DE;Apogäum;DE
+248;Goldrute;DE;Baumschläfer;DE;Dudelsackpfeifer, Dudelsackpfeiferin;DE;Apsiden;DE
+249;Goldulme;DE;Baumschlange;DE;Ebenist, Ebenistin;DE;Aqua-Kultur;DE
+250;Gottesgnadenkraut;DE;Baumschneke;DE;Edelmetallprüfer, Edelmetallprüferin;DE;Arbeiter;DE
+251;Granatapfelbaum;DE;Baumschnüffler;DE;Edelsteinfasser, Edelsteinfasserin;DE;Arbeiterbauer;DE
+252;Gras;DE;Baumsegler;DE;Edelsteingraveur, Edelsteingraveurin;DE;Arbeiterwohngemeinde;DE
+253;Guajak;DE;Baumstachelschwein;DE;Edelsteinschleifer, Edelsteinschleiferin;DE;Arbeitsbevölkerung;DE
+254;Guarana;DE;Baumtiger;DE;Einbrecher, Einbrecherin;DE;arbeitsintensiv;DE
+255;Guave;DE;Baumweißling;DE;Einsatzleiter, Einsatzleiterin;DE;Arbeitskosten;DE
+256;Gundelrebe;DE;Baumwollratte;DE;Einzelhandelskauffrau, Einzelhandelskaufmann;DE;Arbeitskraft;DE
+257;Gundermann;DE;Baumwollschwanzkaninchen;DE;Eisenbahner, Eisenbahnerin (im Betriebsdienst, Fachrichtungen: 1. Fahrweg, 2. Lokführer/-in und Transport);DE;Arbeitskräftebesatz;DE
+258;Habichtskraut;DE;Bechsteins Fledermaus;DE;Eisenflechter, Eisenflechterin;DE;Arbeitskrafteinheit;DE
+259;Hafer;DE;Beerenwnaze;DE;Eiskunstläufer, Eiskunstläuferin;DE;Arbeitskräftepotenzial;DE
+260;Hagebutte;DE;Behra;DE;Eismann, Eisfrau;DE;Arbeitsloser;DE
+261;Hahnenfuß;DE;Beilbauchfisch;DE;Elektriker, Elektrikerin;DE;Arbeitslosenquote;DE
+262;Hahnenkamm;DE;Beilbauchsalmler;DE;Elektroanlagenmonteur, Elektroanlagenmonteurin;DE;Arbeitslosigkeit;DE
+263;Hainbuche;DE;Beilfisch;DE;Elektroinstallateur, Elektroinstallateurin;DE;Arbeitsplatz;DE
+264;Hamamelis;DE;Beisa;DE;Elektromaschinenbauer, Elektromaschinenbauerin;DE;Arbeitsplatzdichte;DE
+265;Hanf;DE;Belchen;DE;Elektromechaniker, Elektromechanikerin;DE;Arbeitsproduktivität;DE
+266;Haronga;DE;Bellfrosch;DE;Elektroniker, Elektronikerin (Fachrichtungen: 1. Automatisierungstechnik (Handwerk) 2. Energie- und Gebäudetechnik 3. Informations- und Telekommunikationstechnik);DE;Archäiden;DE
+267;Haselwurz;DE;Bellhirsch;DE;Elektroniker für Automatisierungstechnik (Industrie);DE;Archaikum;DE
+268;Hasenohr;DE;Beluga;DE;Elektroniker für Betriebstechnik, Elektronikerin für Betriebstechnik;DE;Architektur;DE
+269;Hauhechel;DE;Bembix;DE;Elektroniker für Gebäude- und Infrastruktursysteme, Elektronikerin für Gebäude- und Infrastruktursysteme;DE;Archäologie;DE
+270;Hauswurz;DE;Bengalfuchs;DE;Elektroniker für Geräte und Systeme, Elektronikerin für Geräte und Systeme;DE;Archäophyt;DE
+271;Hechtkraut;DE;Bengalisches Stachelschwein;DE;Elektroniker für luftfahrttechnische Systeme, Elektronikerin für luftfahrttechnische Systeme;DE;Archipel;DE
+272;Heckenrose;DE;Bengalkatze;DE;Elektroniker für Maschinen- und Antriebstechnik, Elektronikerin für Maschinen- und Antriebstechnik;DE;Areal;DE
+273;Hederich;DE;Bengaltiger;DE;Elektrotechnische Assistentin, Elektrotechnischer Assistent;DE;arheisch;DE
+274;Heidekraut;DE;Bennets Baumkänguruh;DE;Energieelektroniker, Energieelektronikerin;DE;arid;DE
+275;Heidelbeere;DE;Bennetkänguruh;DE;Entomologe, Entomologin;DE;Arididät;DE
+276;Heilpflanze;DE;Beo;DE;Entwickler, Entwicklerin;DE;Arididätsfaktor;DE
+277;Heilziest;DE;Berberaffe;DE;Ergotherapeut, Ergotherapeutin;DE;Artikfront;DE
+278;Herbstzeitlose;DE;Berberkröte;DE;Erntehelfer, Erntehelferin;DE;arktisch;DE
+279;Herzblatt;DE;Berberlöwe;DE;Ersatzdarsteller, Ersatzdarstellerin;DE;arktotertiär;DE
+280;Herzgespann;DE;Berbermaus;DE;Ersatzmann, Ersatzfrau;DE;Armut;DE
+281;Hexenkraut;DE;Berberskink;DE;Erzieher, Erzieherin;DE;Armutsgrenze;DE
+282;Hibiskus;DE;Bergamaskerschaf;DE;Estrichleger, Estrichlegerin;DE;Arrondierung;DE
+283;Himbeere;DE;Berg-Coati;DE;Essenkehrer, Essenkehrerin;DE;Artel;DE
+284;Hirschwurz;DE;Bergeidechse;DE;Ethnologe, Ethnologin;DE;Art;DE
+285;Hirse;DE;Bergente;DE;Ewerführer;DE;Artenschutz;DE
+286;Hirtentäschel;DE;Bergfink;DE;Exportkauffrau, Exportkaufmann;DE;Artenverarmung;DE
+287;Hohldotter;DE;Berggorilla;DE;Fabrikarbeiter, Fabrikarbeiterin;DE;Artenvielfalt;DE
+288;Hohlzahn;DE;Berhänfling;DE;Fachangestellte, Fachangestellter;DE;artesisch;DE
+289;Hohlzunge;DE;Bergilt;DE;Fachangestellte für Arbeitsförderung, Fachangestellter für Arbeitsförderung;DE;ASEAN;DE
+290;Holunder;DE;Bergkänguruh;DE;Fachangestellte für Arbeitsmarktdienstleistungen, Fachangestellter für Arbeitsmarktdienstleistungen;DE;Aspekt;DE
+291;Hopfen;DE;Bergkatze;DE;Fachangestellte für Bäderbetriebe, Fachangestellter für Bäderbetriebe;DE;Aspirationspsychrometer;DE
+292;Hopfenbuche;DE;Berglandunke;DE;Fachangestellte für Bürokommunikation, Fachangestellter für Bürokommunikation;DE;Assimilation;DE
+293;Hornmohn;DE;Berglöwe;DE;Fachangestellte für Markt- und Sozialforschung, Fachangestellter für Markt- und Sozialforschung;DE;assoziiert;DE
+294;Huflattich;DE;Bergmolch;DE;Fachangestellte für Medien- und Informationsdienste, Fachangestellter für Medien- und Informationsdienste (Fachrichtungen: 1. Archiv 2. Bibliothek 3. Bildagentur 4. Information und Dokumentation 5. Medizinische Dokumentation);DE;Assoziierung;DE
+295;Hundszunge;DE;Bergnasenbär;DE;Facharbeiter, Facharbeiterin;DE;astr-/astro-;DE
+296;Igelkolben;DE;Bergnyala;DE;Fachinformatiker, Fachinformatikerin (Fachrichtungen: 1. Anwendungsentwicklung 2. Systemintegration);DE;Astroblem;DE
+297;Igelsame;DE;Bergpaka;DE;Fachkraft;DE;Astrogeodäsie;DE
+298;Igelschlauch;DE;Bergpieper;DE;Fachkraft Agrarservice;DE;Astronomie;DE
+299;Immenblatt;DE;Bergriedbock;DE;Fachkraft für Abwassertechnik;DE;astronomisch;DE
+300;Immergrün;DE;Bergstachler;DE;Fachkraft für Automatenservice;DE;ATKIS;DE
+301;Immortelle;DE;Bergtapir;DE;Fachkraft für Fruchtsafttechnik;DE;Atlantikum;DE
+302;Ingwer;DE;Bergzebra;DE;Fachkraft für Hafenlogistik;DE;atlantisch;DE
+303;Insektenblüte;DE;Bergziege;DE;Fachkraft für Holz- und Bautenschutzarbeiten;DE;Atlas;DE
+304;Iris;DE;Bernhardiner;DE;Fachkraft für Hygieneüberwachung;DE;atmophil;DE
+305;Ive;DE;Bernsteinmakrele;DE;Fachkraft für Kreislauf- und Abfallwirtschaft;DE;Atmosphäre;DE
+306;Jaborandistrauch;DE;Bettwanze;DE;Fachkraft für Kurier-, Express- und Postdienstleistungen;DE;Atmosphärilien;DE
+307;Jakobsblume;DE;Beulenkrokodil;DE;Fachkraft für Lagerlogistik;DE;atmosphärisch;DE
+308;Jakobskraut;DE;Beutelbär;DE;Fachkraft für Lebensmitteltechnik;DE;Atomkrieg;DE
+309;Jakobskreuzkraut;DE;Beutelbilch;DE;Fachkraft für Lederverarbeitung;DE;Atoll;DE
+310;Jakobsgreiskraut;DE;Beuteldachs;DE;Fachkraft für Möbel-, Küchen- und Umzugsservice;DE;Au;DE
+311;Jasione;DE;Beutelflughörnchen;DE;Fachkraft für Pflegeassistenz;DE;Aue;DE
+312;Jalae;DE;Beutelfrosch;DE;Fachkraft für Rohr-, Kanal- und Industrieservice;DE;Auenwald;DE
+313;Jelängerjelieber;DE;Beutelfuchs;DE;Fachkraft für Schutz und Sicherheit;DE;Aufgang;DE
+314;Johannisbeere;DE;Beutelgilbmaus;DE;Fachkraft für Straßen- und Verkehrstechnik;DE;Aufgleitfläche;DE
+315;Johannisbrot;DE;Beutelhund;DE;Fachkraft für Süßwarentechnik (Fachrichtungen: 1. Dauerbackwaren, 2. Konfekt, 3. Schokolade, 4. Zuckerwaren);DE;Auflage;DE
+316;Johanniskraut;DE;Beuteliltis;DE;Fachkraft für Veranstaltungstechnik;DE;auflandig;DE
+317;Judasbaum;DE;Beutelmarder;DE;Fachkraft für Wasserversorgungstechnik;DE;Auflandung;DE
+318;Judaspfennig;DE;Beutelmaulwurf;DE;Fachkraft für Wasserwirtschaft;DE;Aufschlämmung;DE
+319;Judassilberling;DE;Beutelmull;DE;Fachkraft im Fahrbetrieb;DE;Aufschlickung;DE
+320;Judenkirsche;DE;Beutelratte;DE;Fachkraft im Gastgewerbe;DE;Aufschluss;DE
+321;Jungfer im Grünen;DE;Beuteteufel;DE;Fachlagerist, Fachlageristin;DE;Aufschüttung;DE
+322;Jungfernrebe;DE;Beutewolf;DE;Fachlehrer, Fachlehrerin;DE;Aufschüttungsebene;DE
+323;Kaffeestrauch;DE;Bezoarziege;DE;Fachlehrer für musisch-technische Fächer, Fachlehrerin für musisch-technische Fächer;DE;Aufstockung;DE
+324;Kakaobaum;DE;Bharal;DE;Fachfrau, Fachmann;DE;Auftauboden;DE
+325;Kaktus;DE;Biber;DE;Fachfrau für Systemgastronomie, Fachmann für Systemgastronomie;DE;Auftriebswasser;DE
+326;Kälberkropf;DE;Blauracke;DE;Fachverkäufer, Fachverkäuferin;DE;Aufwind;DE
+327;Kalisaya;DE;Buberkäfer;DE;Fachverkäufer im Lebensmittelhandwerk, Fachverkäuferin im Lebensmittelhandwerk (Fachrichtungen: 1. Bäckerei 2. Fleischerei 3. Konditorei);DE;Auge;DE
+328;Kalmus;DE;Biberratte;DE;Fahrdienstleiter, Fahrdienstleiterin;DE;Aureole;DE
+329;Kamala;DE;Biberspitzmaus;DE;Fahrer, Fahrerin;DE;ausapern;DE
+330;Kamille;DE;Biene;DE;Fahrlehrer, Fahrlehrerin;DE;Ausblasung;DE
+331;Kampfer;DE;Bienenelfe;DE;Fahrprüfer, Fahrprüferin;DE;Ausfuhr;DE
+332;Kapuzinerkresse;DE;Bienenfresser;DE;Fährmann, Fährfrau;DE;Ausfuhrförderung;DE
+333;Kardamom;DE;Bienenkäfer;DE;Fahrradkurier, Fahrradkurierin;DE;Ausgehendes;DE
+334;Kardobenediktenkraut;DE;Bienenlaus;DE;Fahrradmonteur, Fahrradmonteurin;DE;Ausgleichsfläche;DE
+335;Kartoffel;DE;Bienenmilbe;DE;Fahrstuhlführer, Fahrstuhlführerin;DE;Ausgleichsküste;DE
+336;Käsepappel;DE;Bienenwolf;DE;Fahrzeuginnenausstatter, Fahrzeuginnenausstatterin;DE;Ausgleichströmung;DE
+337;Kastanie;DE;Bighornschaf;DE;Fahrzeuglackierer, Fahrzeuglackiererin;DE;Aushagerung;DE
+338;Katechu;DE;Bilch;DE;Fahrzeugpolsterer, Fahrzeugpolsterin;DE;auskeilen;DE
+339;Katzenpfötchen;DE;Bilchmaki;DE;Faktotum;DE;Auskolkung;DE
+340;Kava-Kava;DE;Bilharzia;DE;Falkner, Falknerin;DE;Ausland;DE
+341;Kerbel;DE;Bindebeuteldachs;DE;Fallschirmjäger, Fallschirmjägerin;DE;Auslandsverschuldung;DE
+342;Keulen-Bärlapp;DE;Bindenschwein;DE;Fallschirmspringer, Fallschirmspringerin;DE;Auslaugung;DE
+343;Khella;DE;Bindenwaran;DE;Fassadenkletterer, Fassadenklettererin;DE;Auslieger;DE
+344;Kirschlorbeer;DE;Binturong;DE;Fassadenmonteur, Fassadenmonteurin;DE;außenbürtig;DE
+345;Klapperschlangenwurzel;DE;Birgus;DE;Fassadenreiniger, Fassadenreinigerin;DE;Außenhandel;DE
+346;Klappertopf;DE;Birkenknopfhornwespe;DE;Fassbinder, Fassbinderin;DE;Außenwirtschaft;DE
+347;Klatschmohn;DE;Birkenmaus;DE;Federmacher, Federmacherin;DE;außertropisch;DE
+348;Klee;DE;Birkenspanner;DE;Feinmechaniker, Feinmechanikerin;DE;Aussichtspunkt;DE
+349;Kleefarn;DE;Birkenspinner;DE;Feinoptiker, Feinoptikerin;DE;Aussichtstempel;DE
+350;Klette;DE;Birkenstecher;DE;Feinpolierer, Feinpoliererin;DE;Aussichtsturm;DE
+351;Klosternelke;DE;Birkenzeisig;DE;Feintäschner, Feintäschnerin;DE;Aussiedler;DE
+352;Knabenkraut;DE;Birkfuchs;DE;Feinwerkmechaniker, Feinwerkmechanikerin;DE;Aussiedlerhof;DE
+353;Knoblauch;DE;Birkhuhn;DE;Feldmesser;DE;Aussiedlung;DE
+354;Knöterich;DE;Birma-Hase;DE;Fensterputzer, Fensterputzerin;DE;Ausspülung;DE
+355;Kohldistel;DE;Birnensauger;DE;Fernfahrer, Fernfahrerin;DE;Ausstrahlung;DE
+356;Kohlröschen;DE;Birngallmücke;DE;Fernerkunder, Fernerkunderin;DE;Ausflug;DE
+357;Kokastrauch;DE;Bisam;DE;Fernsehmoderator, Fernsehmoderatorin;DE;Aussichtsturm;DE
+358;Kolanuss;DE;Bisamente;DE;Fertigungsmechaniker, Fertigungsmechanikerin;DE;Ausstrahlung;DE
+359;Königskerze;DE;Bisamratte;DE;Festmacher, Festmacherin;DE;Austausch;DE
+360;Kondurango;DE;Bisamschwein;DE;Feuerrüpel;DE;Austauschkapazität;DE
+361;Kopaivabaum;DE;Bischoffsaffe;DE;Feuerspucker, Feuerspuckerin;DE;australisch;DE
+362;Koriander;DE;Biskaya-Wal;DE;Feuerungs- und Schornsteinbauer, Feuerungs- und Schornsteinbauerin;DE;Auswanderung;DE
+363;Kornblume;DE;Bison;DE;Feuerwehrmann, Feuerwehrfrau;DE;auswehen;DE
+364;Kornelkirsche;DE;Bitterling;DE;Fiaker;DE;auswittern;DE
+365;Kosobaum;DE;Bitterlingsbarbe;DE;Figurenkeramformer, Figurenkeramformerin;DE;Auswitterung;DE
+366;Kotobaum;DE;Black-Molly;DE;Filialleiter, Filialleiterin;DE;Auswürfling;DE
+367;Kresse;DE;Bläßgans;DE;Filmemacher, Filmemacherin;DE;Autan;DE
+368;Kreuzdorn;DE;Bläßhuhn;DE;Film- und Bühnencosmetologe, Film- und Bühnencosmetologin;DE;autark;DE
+369;Krotonbaum;DE;Bläuel;DE;Film- und Videoeditor, Film- und Videoeditorin;DE;Autarkie;DE
+370;Kubaspinat;DE;Blaumeise;DE;Film- und Videolaborant, Film- und Videolaborantin;DE;Autarkiestreben;DE
+371;Kubeben;DE;Blainvilles Delphin;DE;Fischer, Fischerin;DE;Autobahn;DE
+372;Küchenschelle;DE;Blankaal;DE;Fischwirt, Fischwirtin (Schwerpunkte: 1. Fischhaltung und Fischzucht 2. Kleine Hochsee- und Küstenfischerei 3. Seen- und Flussfischerei;DE;Autobahnabfahrt;DE
+373;Kuckucksbrot;DE;Blasenfrosch;DE;Flachglasmechaniker, Flachglasmechanikerin;DE;Autobahnauffahrt;DE
+374;Kuhschelle;DE;Blasenkäfer;DE;Flechter, Flechterin;DE;Autökologie;DE
+375;Kümmel;DE;Blasenwurm;DE;Flechtwerkgestalter, Flechtwerkgestalterin;DE;autochthon;DE
+376;Kurare;DE;Blasser Kärpfling;DE;Fleischer, Fleischerin;DE;Automation;DE
+377;Kürbis;DE;Blaßfuchs;DE;Fleischereifachverkäuferin;DE;Automatisierung;DE
+378;Kurkuma;DE;Blattfinger;DE;Fleischereiverkäufer, Fleischereiverkäuferin;DE;Autonomie;DE
+379;Labkraut;DE;Blattfisch;DE;Fleischhacker;DE;autozentriert;DE
+380;Laichkraut;DE;Blatthühnchen;DE;Fleischhauer, Fleischhauerin;DE;Auwald;DE
+381;Laminaria;DE;Blattkäfer;DE;Fleischverkäufer, Fleischverkäuferin;DE;Azimut;DE
+382;Lärche;DE;Blattlaus;DE;Fleischzerleger, Fleischzerlegerin;DE;Azimutalkreis;DE
+383;Laserkraut;DE;Blattlauslöwe;DE;Flexograf, Flexografin;DE;Azimutalprojektion;DE
+384;Latschenkiefer;DE;Blattnasenatter;DE;Flieger, Fliegerin;DE;Azoikum;DE
+385;Lauch;DE;Blattrippenstecher;DE;Fliesenleger, Fliesenlegerin;DE;azonal;DE
+386;Läusekraut;DE;Blattschmetterling;DE;Fliesen-, Platten- und Mosaikleger, Fliesen-, Platten- und Mosaiklegerin;DE;Azorenhoch;DE
+387;Lavendel;DE;Blattschneiderameise;DE;Florist, Floristin;DE;Bach;DE
+388;Lebensbaum;DE;Blattschneiderbiene;DE;Flötist, Flötistin;DE;Badlands;DE
+389;Leberblümchen;DE;Blattschwanzgecko;DE;Fluchthelfer, Fluchthelferin;DE;Bahn;DE
+390;Lein;DE;Blattsteigerfrosch;DE;Flugbegleiter, Flugbegleiterin;DE;Bahnbestimmung;DE
+391;Leindotter;DE;Blattwespe;DE;Flugdienstberater, Flugdienstberaterin;DE;Bahnelement;DE
+392;Leinkraut;DE;Blaubandgrundel;DE;Fluggerätelektroniker, Fluggerätelektronikerin;DE;Bahr;DE
+393;Levkoje;DE;Blaubandkärpling;DE;Fluggerätmechaniker, Fluggerätmechanikerin (Fachrichtungen: 1. Fertigungstechnik, 2. Instandhaltungstechnik, 3. Triebwerkstechnik);DE;Bai;DE
+394;Lerchensporn;DE;Blaubandsalmler;DE;Förderlehrer, Förderlehrerin;DE;Balje;DE
+395;Liane;DE;Blaubarsch;DE;Forscher, Forscherin;DE;Balka;DE
+396;Lichtnelke;DE;Blaubock;DE;Forstarbeiter, Forstarbeiterin;DE;Ballungsraum;DE
+397;Liebstöckel;DE;Blauböckchen;DE;Förster, Försterin;DE;Balme;DE
+398;Liesch;DE;Blaubull;DE;Forstwirt, Forstwirtin;DE;Bank;DE
+399;Liguster;DE;Blaudrossel;DE;Foto- und medientechnische Assistentin, Foto- und medientechnischer Assistent;DE;Bannwald;DE
+400;Lilie;DE;Blauer Fadenfisch;DE;Fotograf, Fotografin;DE;Banse;DE
+401;Linde;DE;Blaufelchen;DE;Fotolaborant, Fotolaborantin;DE;Bar;DE
+402;Linse;DE;Blaufisch;DE;Fotomedienfachfrau, Fotomedienfachmann;DE;Barbenregion;DE
+403;Litschi;DE;Blauflügelwaldsänger;DE;Fotomedienlaborant, Fotomedienlaborantin;DE;Barchan;DE
+404;Lobelie;DE;Blaufuchs;DE;Fräser, Fräserin;DE;Barfrost;DE
+405;Lobelienkraut;DE;Blauglanzhechtling;DE;Frauenarzt, Frauenärztin;DE;barisches Windgesetz;DE
+406;Löffelkraut;DE;Blauhai;DE;Fremdsprachenkorrespondent, Fremdsprachenkorrespondentin;DE;Barometer;DE
+407;Lolch;DE;Blaukehlagame;DE;Friseur, Friseurin, Friseuse;DE;Barometereffekt;DE
+408;Lorbeer;DE;Blaukehlchen;DE;Führer, Führerin;DE;Barometertendenz;DE
+409;Lorbeerkirsche;DE;Blaukopf;DE;Fuhrmann;DE;barometrische Höhenformel;DE
+410;Lorbeerrose;DE;Blaumaul-Meerkatze;DE;Funktionär, Funktionärin;DE;barometrische Höhenstufe;DE
+411;Lotwurz;DE;Blaumeise;DE;Fußballspieler, Fußballspielerin;DE;Barranco;DE
+412;Löwenmaul;DE;Blaumerle;DE;Fußballnationalspieler, Fußballnationalspielerin;DE;Barre;DE
+413;Löwenmäulchen;DE;Blaupunktbuntbarsch;DE;Fußpfleger, Fußpflegerin;DE;Barren Grounds;DE
+414;Löwenzahn;DE;Blaurake;DE;Gabelstaplerfahrer, Gabelstaplerfahrerin;DE;Barriereeis;DE
+415;Lungenkraut;DE;Blaurücken;DE;Galvaniseur, Galvaniseurin;DE;Barysphäre;DE
+416;Lupine;DE;Blaurückenducker;DE;Garçon;DE;Basis;DE
+417;Luzerne;DE;Blaurückenwaldsänger;DE;Gärtner, Gärtnerin (Fachrichtungen: 1. Baumschule, 2. Friedhofsgärtnerei, 3. Garten- und Landschaftsbau, 4. Gemüsebau, 5. Obstbau, 6. Staudengärtnerei, 7. Zierpflanzenbau);DE;Basislatte;DE
+418;Mädesüß;DE;Blauschaf;DE;Gas- und Wasserinstallateur, Gas- und Wasserinstallateurin;DE;Bathometer;DE
+419;Mahonie;DE;Blauschwanz-Schlankskink;DE;Gasinstallateur, Gasinstallateurin;DE;bathyal;DE
+420;Ma-Huang;DE;Blaustirnamazone;DE;Gastronom, Gastronomin;DE;Bathymeter;DE
+421;Maiglöckchen;DE;Blaustreifengrunzer;DE;Gastwirt, Gastwirtin;DE;Bathysonde;DE
+422;Mais;DE;Blauwal;DE;Gaukler, Gauklerin;DE;Bathythermograph;DE
+423;Majoran;DE;Blauwange;DE;Gebäudereiniger, Gebäudereinigerin;DE;Bauabstand;DE
+424;Malabarspinat;DE;Blauzungenskink;DE;Gefängniswärter, Gefängniswärterin;DE;Baudichte;DE
+425;Malve;DE;Bleiböckchen;DE;Geigenbauer, Geigenbauerin;DE;Bauer;DE
+426;Mammutbaum;DE;Bleirückensalamander;DE;Geiger, Geigerin;DE;Bauernhaus;DE
+427;Mandarine;DE;Bleßbock;DE;Geistliche, Geistlicher;DE;Bauernregel;DE
+428;Manna;DE;Bleßgans;DE;General, Generalin;DE;Bauleitplanung;DE
+429;Männertreu;DE;Bleßmull;DE;Generaldirektor, Generaldirektorin;DE;Bauméskala;DE
+430;Mannsschild;DE;Blikke;DE;Geodät, Geodätin;DE;Baumgrenze;DE
+431;Mannstreu;DE;Blinddarmbilch;DE;Geograf, Geografin;DE;Baumheide;DE
+432;Maranta;DE;Blinde-Höhlenbarbe;DE;Geograph, Geographin;DE;Baumsavanne;DE
+433;Margerite;DE;Blinde Höhlengrundel;DE;Geologe, Geologin;DE;Bauweise;DE
+434;Mariendistel;DE;Blinder Höhlensalamander;DE;Geoinformatiker, Geoinformatikerin;DE;Beaufortskala;DE
+435;Mariengras;DE;Blinder Höhlenwels;DE;Geomatiker, Geomatikerin;DE;Bebauungsdichte;DE
+436;Marille;DE;Blinder Trugkärpfling;DE;Geometer;DE;Bebauungsplan;DE
+437;Märzenbecher;DE;Blindmaulwurf;DE;Gerätezusammensetzer, Gerätezusammensetzerin;DE;Becken;DE
+438;Maßholder;DE;Blindmaus;DE;Geräuschemacher, Geräuschemacherin;DE;Becquerel;DE
+439;Maßliebchen;DE;Blindmolch;DE;Gerber, Gerberin;DE;Belebtschlammverfahren;DE
+440;Mastkraut;DE;Blindschleiche;DE;Gerichtsvollzieher, Gerichtsvollzieherin;DE;Benthal;DE
+441;Matico;DE;Blödauge;DE;Gerüstbauer, Gerüstbauerin;DE;Benthos;DE
+442;Mauerpfeffer;DE;Blöker;DE;Geschäftsführer, Geschäftsführerin;DE;Beregnung;DE
+443;Maulbeere;DE;Blumennase;DE;Gestalter, Gestalterin;DE;Berg;DE
+444;Mäuseklee;DE;Blumentopfschlange;DE;Gestalter für visuelles Marketing, Gestalterin für visuelles Marketing;DE;Bergbau;DE
+445;Meerrettich;DE;Blutbock;DE;Gestaltungstechnische Assistentin, Gestaltungstechnischer Assistent;DE;Bergbaude;DE
+446;Meerzwiebel;DE;Blutbrustpavian;DE;Gesundheits- und Kinderkrankenpfleger, Gesundheits- und Kinderkrankenpflegerin;DE;Bergfahrt;DE
+447;Meier;DE;Blutegel;DE;Gesundheits- und Krankenpflegehelfer, Gesundheits- und Krankenpflegehelferin;DE;Bergfeuchtigkeit;DE
+448;Meisterwurz;DE;Blutfasan;DE;Gesundheits- und Krankenpfleger, Gesundheits- und Krankenpflegerin;DE;bergig;DE
+449;Melde;DE;Bluthänfling;DE;Gesundheitsaufseher, Gesundheitsaufseherin;DE;Bergland;DE
+450;Melisse;DE;Bluthals;DE;Gewerkschafter, Gewerkschafterin;DE;Bergrutsch;DE
+451;Melone;DE;Blthund;DE;Gießer;DE;Bergschraffen;DE
+452;Melonenbaum;DE;Blutlaus;DE;Gießereimechaniker, Gießereimechanikerin (Fachrichtungen: 1. Handformguss, 2. Druck- und Kokillenguss 3. Maschinenformguss);DE;Bergschrund;DE
+453;Merk;DE;Blutpython;DE;Glas- und Kerammaler, Glas- und Kerammalerin;DE;Bergsturz;DE
+454;Milchstern;DE;Blutsalmler;DE;Glas- und Porzellanmaler, Glas- und Porzellanmalerin;DE;Bergufer;DE
+455;Mispel;DE;Blutsauger;DE;Glasapparatebauer, Glasapparatebauerin;DE;Bergwerk;DE
+456;Mistel;DE;Blutschnabelweber;DE;Glasbildner, Glasbildnerin;DE;Berieselung;DE
+457;Mittagsblume;DE;Blutströpchen;DE;Glasbläser, Glasbläserin (Fachrichtungen: 1. Christbaumschmuck, 2. Glasgestaltung, 3. Kunstaugen);DE;Berufsverkehr;DE
+458;Mohn;DE;Boa;DE;Glaser, Glaserin (Fachrichtungen: 1. Fenster- und Glasfassadenbau, 2. Verglasung und Glasbau);DE;Besiedelungsdichte;DE
+459;Möhre;DE;Boaedon;DE;Glasmacher, Glasmacherin;DE;Bestandesabfall;DE
+460;Moltebeere;DE;Boa-Trugnatter;DE;Glasmaler, Glasmalerin;DE;Bestandsklima;DE
+461;Monarde;DE;Bobak;DE;Glasveredler, Glasveredlerin (Fachrichtungen: 1. Glasmalerei und Kunstverglasung, 2. Kanten- und Flächenveredlung, 3. Schliff und Gravur);DE;Betriebsgröße;DE
+462;Mondviole;DE;Bobtail;DE;Gleisbauer, Gleisbauerin;DE;Betriebslänge;DE
+463;Moorabbiss;DE;Bock;DE;Glockengießer, Glockengießerin;DE;Bett;DE
+464;Moorkönig;DE;Bockkäfer;DE;Goldschmied, Goldschmiedin (Fachrichtungen: 1. Juwelen, 2. Ketten, 3. Schmuck);DE;Bevölkerung;DE
+465;Moos;DE;Bodenkröte;DE;Goldwäscher, Goldwäscherin;DE;Bifurkation;DE
+466;Moosbeere;DE;Böhm-Zebra;DE;Grafiker, Grafikerin;DE;Blindsee;DE
+467;Moschuskraut;DE;Bogenfinger;DE;Graphiker, Graphikerin;DE;Blockmeer;DE
+468;Moschusschafgarbe;DE;Bohnenkäfer;DE;Graphologe, Graphologin;DE;Blockstrom;DE
+469;Muira-Puama;DE;Bohnenmuschel;DE;Graveur, Graveurin;DE;Bodden;DE
+470;Mummel;DE;Bohrschnecken;DE;Großhandelskauffrau, Großhandelskaufmann;DE;Bodenatmung;DE
+471;Muskatnuss;DE;Bohrschwamm;DE;Grundschullehrer, Grundschullehrerin;DE;Bodenfluss;DE
+472;Mutterkorn;DE;Bohrwurm;DE;Gürtler, Gürtlerin;DE;Bodengefüge;DE
+473;Mutterkümmel;DE;Boleophthalmus;DE;Gymnasiallehrer, Gymnasiallehrerin;DE;Bodenkunde;DE
+474;Myrrhe;DE;Bologneser-Hundchen;DE;Gymnastiklehrer, Gymnastiklehrerin;DE;Bodenlösung;DE
+475;Myrte;DE;Bombardierkäfer;DE;Hafenmeister, Hafenmeisterin;DE;Börde;DE
+476;Nachtkerze;DE;Bombay-Ente;DE;Hafenschiffer, Hafenschifferin;DE;Brack;DE
+477;Nachtschatten;DE;Bombina;DE;Hafner, Hafnerin;DE;Brassenregion;DE
+478;Nachtviole;DE;Bobus;DE;Häfner, Häfnerin;DE;Braunerde;DE
+479;Nagelkraut;DE;Bonellia;DE;Handelsfachpacker, Handelsfackpackerin;DE;Breite;DE
+480;Narzisse;DE;Bongo;DE;Handlanger, Handlangerin;DE;Breitengrad;DE
+481;Natternzunge;DE;Bonito;DE;Händler, Händlerin;DE;Breitenkreis;DE
+482;Negersaat;DE;Bonobo;DE;Handwerker, Handwerkerin;DE;Brunnen;DE
+483;Nelke;DE;Boomslang;DE;Handzuginstrumentenmacher, Handzuginstrumentenmacherin;DE;Bucht;DE
+484;Nelkenwurz;DE;Bordeaux-Dogge;DE;Hauer;DE;Caatinga;DE
+485;Nestwurz;DE;Borkenkäfer;DE;Häuer;DE;Caldera;DE
+486;Nieswurz;DE;Borkenratte;DE;Häuptling;DE;Calina;DE
+487;Nilsalat;DE;Borkentier;DE;Haus- und Familienpfleger, Haus- und Familienpflegerin;DE;Callovien;DE
+488;Nixkraut;DE;Borneokatze;DE;Hausdame;DE;Camenchaca;DE
+489;Norne;DE;Borstenbaumstachler;DE;Hausfrau, Hausmann;DE;Campan;DE
+490;Nuss;DE;Borstenferkel;DE;Haushälterin;DE;Canyon;DE
+491;Ochsenauge;DE;Borstengürteltier;DE;Hausierer, Hausiererin;DE;Carascal;DE
+492;Odermennig;DE;Borstenhörnchen;DE;Hauslehrer, Hauslehrerin;DE;Carr;DE
+493;Ohnhorn;DE;Borstenigel;DE;Hausmädchen;DE;Castellatuswolke;DE
+494;Olivenbaum;DE;Borstenkaninchen;DE;Hausmeister;DE;Catena;DE
+495;Orchidee;DE;Borstenmaul;DE;Hauspfleger, Hauspflegerin;DE;Cañon;DE
+496;Ölbaum;DE;Bothrops;DE;Hausverwalter, Hausverwalterin;DE;Celsius;DE
+497;Oleander;DE;Boxer;DE;Hauswirtschafter, Hauswirtschafterin;DE;Celsiusskala;DE
+498;Olibanum;DE;Brabantbuntbarsch;DE;Hauswirtschaftsassistent, Hauswirtschaftsassistentin;DE;Cenoman;DE
+499;Olive;DE;Brachkäfer;DE;Hauswirtschaftshelfer, Hauswirtschaftshelferin;DE;Chalkospäre;DE
+500;Orant;DE;Brachschwalbe;DE;Headhunter, Headhunterin;DE;Chamaephyten;DE
+501;Oregano;DE;Brachsen;DE;Hebamme;DE;Chamsin;DE
+502;Osterluzei;DE;Brachsensalmler;DE;Hehler, Hehlerin;DE;Chapada;DE
+503;Pagodenbaum;DE;Brachschnepfe;DE;Heiler, Heilerin;DE;Chaparral;DE
+504;Pampelmuse;DE;Brachvogel;DE;Heilerzieher, Heilerzieherin;DE;Chattische Stufe;DE
+505;Panamaholz;DE;Brandgans;DE;Heilerziehungspflegehelfer, Heilerziehungspflegehelferin;DE;Chaussee;DE
+506;Pantoffelblume;DE;Brandmaus;DE;Heilerziehungspfleger, Heilerziehungspflegerin;DE;Chañar;DE
+507;Papageienkraut;DE;Brandseeschwalbe;DE;Heilpädagoge, Heilpädagogin;DE;Chinookwind;DE
+508;Papaya;DE;Brasse, Brassen;DE;Heilpraktiker, Heilpraktikerin;DE;Chore;DE
+509;Pappel;DE;Bratpfannenwels;DE;Heizer, Heizerin;DE;Chorologie;DE
+510;Passiblume;DE;Brauen-Glattstirnkaiman;DE;Heizungsbauer, Heizungsbauerin;DE;chorologisch;DE
+511;Passionsblume;DE;Braula;DE;Henker;DE;Cirrocumulus;DE
+512;Passiflora;DE;Braunbär;DE;Herrenschneider, Herrenschneiderin;DE;Cirrostratus;DE
+513;Pastinak;DE;Braunbrustwaldsänger;DE;Herrgottsschnitzer, Herrgottsschnitzerin;DE;Cirrus;DE
+514;Pelargonie;DE;Braune-Hyäne;DE;Hilfsarbeiter, Hilfsarbeiterin;DE;Cockpit;DE
+515;Perubalsam;DE;Braunfisch;DE;Hilfskraft;DE;Congelifraction;DE
+516;Pestwurz;DE;Braunkelchen;DE;Hirte, Hirtin;DE;Congelisol;DE
+517;Petersilie;DE;Braunkehlfrosch;DE;Historiker, Historikerin;DE;Coniac;DE
+518;Petunie;DE;Braunkopffaultier;DE;Hochbaufacharbeiter, Hochbaufacharbeiterin;DE;Corbulasenkung;DE
+519;Pfaffenhütchen;DE;Braunkopf-Kuhstärling;DE;Hochschullehrer, Hochschullehrerin;DE;Coriolisbeschleunigung;DE
+520;Pfefferminze;DE;Braunrückentukan;DE;Holz- und Bautenschützer, Holz- und Bautenschützerin (Fachrichtungen: 1. Bautenschutz 2. Holzschutz);DE;Corioliskraft;DE
+521;Pfennigkraut;DE;Braunskink;DE;Holzbearbeitungsmechaniker, Holzbearbeitungsmechanikerin;DE;Creek;DE
+522;Pfingstrose;DE;Brautente;DE;Holzbildhauer, Holzbildhauerin;DE;Cromer;DE
+523;Piment;DE;Brazza-Meerkatze;DE;Holzblasinstrumentenmacher, Holzblasinstrumentenmacherin;DE;Cuesta;DE
+524;Pimpinelle;DE;Breitflossenkärpfling;DE;Holzfäller, Holzfällerin;DE;Cumulunimbus;DE
+525;Pippau;DE;Breitmaulnashorn;DE;Holzflugzeugbauer, Holzflugzeugbauerin;DE;Cumulus;DE
+526;Piscidiabaum;DE;Breitrandschildkröte;DE;Holzmechaniker, Holzmechanikerin (Fachrichtungen: 1. Bauelemente, Holzpackmittel und Rahmen 2. Möbelbau und Innenausbau);DE;Dammfluss;DE
+527;Platterbse;DE;Breitschnauzen-Halbmaki;DE;Holzschneider, Holzschneiderin;DE;Deflation;DE
+528;Podophyllum;DE;Breitschnauzenkaiman;DE;Holzspielzeugmacher, Holzspielzeugmacherin;DE;Delta;DE
+529;Pomeranze;DE;Bremse;DE;Homöopath, Homöopathin;DE;Denudation;DE
+530;Porree;DE;Brenner;DE;Hörgeräteakustiker, Hörgeräteakustikerin;DE;Depression;DE
+531;Portulak;DE;Brieftaube;DE;Hornist, Hornistin;DE;Destruktion;DE
+532;Portulakröschen;DE;Brillantsalmler;DE;Hotelfachfrau, Hotelfachmann;DE;Doline;DE
+533;Purgierlein;DE;Brillenbär;DE;Hotelier, Hotelierin;DE;Dorf;DE
+534;Purpurweide;DE;Brillenkänguruh;DE;Hotelkauffrau, Hotelkaufmann;DE;Drumlin;DE
+535;Quebracho;DE;Brillenkaiman;DE;Hubschrauberpilot, Hubschrauberpilotin;DE;Dschungel;DE
+536;Quecke;DE;Brillenpinguin;DE;Hufschmied, Hufschmiedin;DE;Düne;DE
+537;Queller;DE;Brillenschlange;DE;Hundeführer, Hundeführerin;DE;dysphotisch;DE
+538;Quendel;DE;Brokatbarbe;DE;Hure;DE;Ebbe;DE
+539;Quillaja;DE;Brolgakranich;DE;Hutmacher, Hutmacherin;DE;Ebene;DE
+540;Quitte;DE;Brombeerfalter;DE;Hüttenfacharbeiter, Hüttenfacharbeiterin;DE;edaphisch;DE
+541;Radmelde;DE;Brotkäfer;DE;Hygieneinspektor, Hygieneinspektorin;DE;Edaphon;DE
+542;Rainfarn;DE;Bruchfisch;DE;Illusionist, Illusionistin;DE;Eiland;DE
+543;Rainweide;DE;Bruchwasserläufer;DE;Illustrator, Illustratorin;DE;Einzugsgebiet;DE
+544;Ramtillkraut;DE;Brückenechse;DE;Imker, Imkerin;DE;Eiszeit;DE
+545;Ratanhia;DE;Brüllaffe;DE;Immobilienhändler, Immobilienhändlerin;DE;Ekliptik;DE
+546;Rauke;DE;Brunnenmolch;DE;Immobilienkauffrau, Immobilienkaufmann;DE;Ekliptikalebene;DE
+547;Rauschbeere;DE;Brydewal;DE;Immobilienmakler, Immobilienmaklerin;DE;Ekliptikebene;DE
+548;Raute;DE;Buansu;DE;Impresario, Impresaria;DE;Elster-Eiszeit;DE
+549;Rauwolfia;DE;Bubo bubo;DE;Industrieelektriker, Industrieelektrikerin (Fachrichtungen: 1. Betriebstechnik, 2. Geräte und Systeme);DE;Emscher;DE
+550;Reckhölderle;DE;Buchdrucker;DE;Industrieelektroniker, Industrieelektronikerin;DE;Endmoräne;DE
+551;Reiherkraut;DE;Buchengallmücke;DE;Industrieglasfertiger, Industrieglasfertigerin;DE;Endsee;DE
+552;Reiherschnabel;DE;Buchenspinner;DE;Industrie-Isolierer, Industrie-Isoliererin;DE;Epilimnion;DE
+553;Reiherschnabelkraut;DE;Buchfink;DE;Industriekauffrau, Industriekaufmann;DE;Erdpyramide;DE
+554;Reis;DE;Buchstabenfrosch;DE;Industriekeramiker, Industriekeramikerin;DE;Erdzeitalter;DE
+555;Rettich;DE;Buckelochse;DE;Industriekeramiker Anlagentechnik, Industriekeramikerin Anlagentechnik;DE;Erosion;DE
+556;Rhabarber;DE;Buckelwal;DE;Industriekeramiker Dekorationstechnik, Industriekeramikerin Dekorationstechnik;DE;erratisch;DE
+557;Rhododendron;DE;Budeng;DE;Industriekeramiker Modelltechnik, Industriekeramikerin Modelltechnik;DE;euphotisch;DE
+558;Riemenzunge;DE;Bücherlaus;DE;Industriekeramiker Verfahrenstechnik, Industriekeramikerin Verfahrenstechnik;DE;Exposition;DE
+559;Ringelblume;DE;Bücherskorpion;DE;Industriekletterer, Industriekletterin;DE;Feld;DE
+560;Rizinus;DE;Bücherwurm;DE;Industriemechaniker, Industriemechanikerin;DE;Feldweg;DE
+561;Roggen;DE;Büffel;DE;Informatikassistent, Informatikassistentin;DE;Fels;DE
+562;Rose;DE;Bülbül;DE;Informatiker, Informatikerin;DE;Felsen;DE
+563;Rosenkohl;DE;Bündelnister;DE;Informatikkauffrau, Informatikkaufmann;DE;Felsenmeer;DE
+564;Rosenlorbeer;DE;Bürstenschwanz-Rattenkänguruh;DE;Informations- und Telekommunikationssystemelektroniker, Informations- und Telekommunikationssystemelektronikerin;DE;Ferner;DE
+565;Rosmarin;DE;Büschelbraunenviper;DE;Informations- und Telekommunikationssystemkauffrau, Informations- und Telekommunikationssystemkaufmann;DE;Fernerkundung;DE
+566;Rosmarinheide;DE;Büschelkäfer;DE;Informationselektroniker, Informationselektronikerin;DE;Findling;DE
+567;Rosskastanie;DE;Büschelohr-Beisa;DE;Ingenieur, Ingenieurin;DE;Firat;DE
+568;Rotklee;DE;Bulldogameise;DE;Ingenieurgeodät, Ingenieurgeodätin;DE;First;DE
+569;Runkel;DE;Bulldogge;DE;Innenarchitekt, Innenarchitektin;DE;Fiumar;DE
+570;Runkelrübe;DE;Bullterrier;DE;Innenarchitekturassistent, Innenarchitekturassistentin;DE;Fjäll;DE
+571;Ruprechtskraut;DE;Bungerschlange;DE;Insolvenzverwalter, Insolvenzverwalterin;DE;Fjord;DE
+572;Sabadille;DE;Buntbarsch;DE;Inspektor, Inspektorin;DE;Flachland;DE
+573;Sabal;DE;Buntbock;DE;Inspizient, Inspizientin;DE;Flaser, Flaserschichtung;DE
+574;Säckelkraut;DE;Buntkäfer;DE;Installateur, Installateurin;DE;Fluss;DE
+575;Sadebaum;DE;Buntmaus;DE;Internationale Luftverkehrsassistentin, Internationaler Luftverkehrsassistent;DE;Flusssystem;DE
+576;Saflor;DE;Buntspecht;DE;Internist, Internistin;DE;Flut;DE
+577;Safran;DE;Buntwaran;DE;Investmentfondskauffrau, Investmentfondskaufmann;DE;fluviatil;DE
+578;Sägepalme;DE;Buntwühle;DE;Isolierer, Isoliererin;DE;fluvioglazial;DE
+579;Salbei;DE;Burchell-Zebra;DE;Isolierfacharbeiter, Isolierfacharbeiterin;DE;Förde;DE
+580;Salbeigamander;DE;Burunduk;DE;Jäger, Jägerin;DE;Fotogrammetrie;DE
+581;Samtpappel;DE;Buschbaby;DE;Jager, Jagerin;DE;Forellenregion;DE
+582;Sandarak;DE;Buschbock;DE;Japanologe, Japanologin;DE;Fremdlingsfluss;DE
+583;Sanddorn;DE;Buschducker;DE;Jongleur, Jongleurin, Jongleuse;DE;Frostsprengung;DE
+584;Sandsegge;DE;Buschhuhn;DE;Journalist, Journalistin;DE;Frühling;DE
+585;Sanikel;DE;Buschkatze;DE;Judaist, Judaistin;DE;Frühlingspunkt;DE
+586;Santakraut;DE;Buschmeister;DE;Jurist, Juristin;DE;Gasse;DE
+587;Sarsaparille;DE;Buschschliefer;DE;Justizfachangestellte, Justizfachangestellter;DE;Gasthof;DE
+588;Sassafras;DE;Buschwaldgalago;DE;Justizvollzugsbeamter, Justizvollzugsbeamtin;DE;Gebirge;DE
+589;Sauerampfer;DE;Bussard;DE;Justizwachtmeister, Justizwachtmeisterin;DE;gebirgig;DE
+590;Sauerdorn;DE;Butt;DE;Juwelier, Juwelierin;DE;Gebirgskette;DE
+591;Sauergras;DE;Butterfisch;DE;Kabarettist, Kabarettistin;DE;Geest;DE
+592;Schachtelhalm;DE;Butterkrebs;DE;Kadi;DE;Gefälle;DE
+593;Schafgarbe;DE;Cacajao;DE;Kalfaktor;DE;Geochemie;DE
+594;Schalotte;DE;Calandra;DE;Kameraassistent, Kameraassistentin;DE;Geodäsie;DE
+595;Scharbockskraut;DE;Cambarus;DE;Kamerafrau, Kameramann;DE;Geografie;DE
+596;Scheineller;DE;Campbell-Meerkatze;DE;Kaminfeger, Kaminfegerin;DE;Geographie;DE
+597;Scheinzypresse;DE;Cana-Fuchs;DE;Kaminkehrer, Kaminkehrerin;DE;Geographisch-Nord;DE
+598;Schlafmohn;DE;Cañon-Laubfrosch;DE;Kammerdiener, Kammerdienerin;DE;geographische Axiome;DE
+599;Schlagkraut;DE;Capparo;DE;Kämmerer;DE;geographische Grenzen;DE
+600;Schlangenknöterich;DE;Capybara;DE;Kammerjäger, Kammerjägerin;DE;geographische Hülle;DE
+601;Schlangenkraut;DE;Carassius;DE;Kammerzofe;DE;geographisches Milieu;DE
+602;Schlangenwurzel;DE;Carcinus;DE;Kanonier;DE;Geoid;DE
+603;Schlehdorn;DE;Cayenne-Ratte;DE;Kanonist;DE;Geoinformatik;DE
+604;Schlehe;DE;Celebes-Schwein;DE;Kantor, Kantorin;DE;Geologie;DE
+605;Schleierkraut;DE;Celebes-Segelfisch;DE;Kanzler, Kanzlerin;DE;Geophysik;DE
+606;Schleifenblume;DE;Cerastes;DE;Kapitän, Kapitänin;DE;Geomorphologie;DE
+607;Schlüsselblume;DE;Ceylonbarbe;DE;Kardinal;DE;Geotechnik;DE
+608;Schmeerwurz;DE;Ceylon-Wühle;DE;Kardiologe, Kardiologin;DE;Geothermie;DE
+609;Schmerwurz;DE;Chamäleon;DE;Karikaturist, Karikaturistin;DE;Geröll;DE
+610;Schmiele;DE;Chanchito;DE;Kartenknipser, Kartenknipserin;DE;Geschiebe;DE
+611;Schneeball;DE;Chapman-Zebra;DE;Kartograf, Kartografin;DE;Geysir;DE
+612;Schneebeere;DE;Charsa;DE;Kartograph, Kartographin;DE;Gipfel;DE
+613;Schneeglöckchen;DE;Cheetah;DE;Kaskadeur, Kaskadeurin;DE;Gipfelflur;DE
+614;Schnittblume;DE;Cheiraxanthium;DE;Kassenwart;DE;glazial;DE
+615;Schöllkraut;DE;Chelifer;DE;Kassierer, Kassiererin;DE;Glazialzeit;DE
+616;Schuppenwurz;DE;Chihuahua;DE;Katasteraffe;DE;Gleicher;DE
+617;Schwalbenwurz;DE;Chilenischer Pudu;DE;Kauffrau, Kaufmann;DE;Gleithang;DE
+618;Schwarzkümmel;DE;Chin;DE;Kellner, Kellnerin;DE;Gletscher;DE
+619;Schweinssalat;DE;China-Alligator;DE;Kellermeister, Kellermeisterin;DE;Gletscherschliff;DE
+620;Schwertlilie;DE;Chinchillakaninchen;DE;Kerzenzieher, Kerzenzieherin;DE;Gley;DE
+621;Segge;DE;Chinchillaratte;DE;Kesselflicker;DE;Golf;DE
+622;Seide;DE;Chinchilla;DE;Kettenschmied;DE;Graben;DE
+623;Seidelbast;DE;Chinesische Nachtigall;DE;Kinderarzt, Kinderärztin;DE;Grabenbruch;DE
+624;Seifenkraut;DE;Chinesischer Hase;DE;Kindergärtnerin;DE;Grat;DE
+625;Seifenrinde;DE;Chipmunk;DE;Kindermädchen;DE;Grauerde;DE
+626;Sellerie;DE;Chitala;DE;Klavierstimmer, Klavierstimmerin;DE;Großkreis;DE
+627;Senega;DE;Chitala-Frosch;DE;Klempner, Klempnerin;DE;Großstadt;DE
+628;Senf;DE;Chow-Chow;DE;Klimatologe, Klimatologin;DE;Grotte;DE
+629;Senna;DE;Chuckwalla;DE;Knecht;DE;Grundmoräne;DE
+630;Sesam;DE;Cistensänger;DE;Koch, Köchin;DE;Grundwasser;DE
+631;Silberblatt;DE;Clownbarbe;DE;Köhler, Köhlerin;DE;Grundwasserleiter;DE
+632;Silberbtaler;DE;Clownfisch;DE;König, Königin;DE;Grundwasserstockwerk;DE
+633;Silberwurz;DE;Coatimundi;DE;Komiker, Komikerin;DE;Gut;DE
+634;Simse;DE;Cobia;DE;Kommissionierer, Kommissioniererin;DE;Hadaikum;DE
+635;Simarubabaum;DE;Cocker-Spaniel;DE;Kompaniechef, Kompaniechefin;DE;Haff;DE
+636;Sitter;DE;Collie;DE;Kompanieführer, Kompanieführerin;DE;Halbinsel;DE
+637;Sockenblume;DE;Colobus;DE;Komparse, Komparsin;DE;Hallig;DE
+638;Sommeradonis;DE;Colocolò;DE;Komponist, Komponistin;DE;Hammada;DE
+639;Sonnenblume;DE;Coloradokäfer;DE;Konditor, Konditorin;DE;Hang;DE
+640;Sonnenhut;DE;Colpeo;DE;Konsul, Konsulin;DE;Heide;DE
+641;Sonnenröschen;DE;Coluber;DE;Kontorist, Kontoristin;DE;Herbst;DE
+642;Sonnentau;DE;Connemara-Pony;DE;Kontrolleur, Kontrolleurin;DE;Herbstpunkt;DE
+643;Spargel;DE;Cornwallschwein;DE;Korbflechter, Korbflechterin;DE;Himmelsäquator;DE
+644;Speierling;DE;Coscoroba;DE;Korbmacher, Korbmacherin;DE;Hochebene;DE
+645;Spierstrauch;DE;Coyote;DE;Kosmetiker, Kosmetikerin;DE;Hochland;DE
+646;Spießdorn;DE;Cyclops;DE;Kosmonaut, Kosmonautin;DE;Höhe;DE
+647;Spitzwegerich;DE;Daboia;DE;Kradmelder, Kradmelderin;DE;Höhenlinie;DE
+648;Spritzgurke;DE;Dachratte;DE;Kraftfahrer, Kraftfahrerin;DE;Höhenzug;DE
+649;Staude;DE;Dachschildkröte;DE;Krämer, Krämerin;DE;Höhle;DE
+650;Stechapfel;DE;Dachs;DE;Kranführer, Kranführerin;DE;Horizont;DE
+651;Stechpalme;DE;Dachshund;DE;Krankenpfleger, Krankenpflegerin;DE;Hügel;DE
+652;Stein-Bibernelle;DE;Dackel;DE;Krankenschwester;DE;Hügelland;DE
+653;Steineiche;DE;Dalmatiner;DE;Kriminalist, Kriminalistin;DE;Huminstoff;DE
+654;Steinklee;DE;Dama-Gazelle;DE;Kryptologe, Kryptologin;DE;Humangeographie;DE
+655;Sternmiere;DE;Damara-Dik-Dik;DE;Kübelmann, Kübelfrau;DE;Humus;DE
+656;Stiefmütterchen;DE;Damara-Zebra;DE;Küfer, Küferin;DE;Hurrikan;DE
+657;Stockrose;DE;Damhirsch;DE;Kunstmaler, Kunstmalerin;DE;Hydrologie;DE
+658;Storchschnabel;DE;Dampfschiffente;DE;Künstler, Künstlerin;DE;Hypolymnion;DE
+659;Strenze;DE;Darwins Nandu;DE;Kupferstecher, Kupferstecherin;DE;Hyläa;DE
+660;Strohblume;DE;Dattelmuschel;DE;Kurarzt, Kurärztin;DE;illuvial;DE
+661;Studentenblume;DE;Davidshirsch;DE;Kürassier;DE;Illuvialhorizont;DE
+662;Stundenblume;DE;Deerhound;DE;Kurier;DE;Insel;DE
+663;Styrax;DE;Defassa-Wasserbock;DE;Kürschner, Kürschnerin;DE;Inlandeis;DE
+664;Sumpfdotterblume;DE;Degenfisch;DE;Küster;DE;Inselberg;DE
+665;Sumpfporst;DE;Degu;DE;Kustos, Kustodin;DE;intermontan;DE
+666;Süßgras;DE;Delfin;DE;Kutscher, Kutscherin;DE;Isthmus;DE
+667;Syzygium;DE;Demidoff-Galago;DE;Kutschmacher;DE;Jahr;DE
+668;Tabak;DE;Dendrolagus;DE;Kynologe, Kynologin;DE;Jahreszeit;DE
+669;Tagetes;DE;Derby-Arassari;DE;Laborant, Laborantin;DE;Kamm;DE
+670;Taigawurzel;DE;Derbywallaby;DE;Lagerarbeiter, Lagerarbeiterin;DE;Kammgebirge;DE
+671;Tamarinde;DE;Desmognathus;DE;Lagerist;DE;Kanal;DE
+672;Tausendgüldenkraut;DE;Deutsch-Drahthaar;DE;Lampenputzer;DE;Kap;DE
+673;Tempelbaum;DE;Deutsche-Dogge;DE;Landarbeiter, Landarbeiterin;DE;Kar;DE
+674;Teufelsabbiss;DE;Deutsch-Kurzhaar;DE;Landmesser;DE;Kartographie;DE
+675;Teufelskralle;DE;Deutsch-Langhaar;DE;Landvermesser, Landvermesserin;DE;Karre;DE
+676;Teufelszwirn;DE;Diadem-Meerkatze;DE;Landwirt, Landwirtin;DE;Karst;DE
+677;Thymian;DE;Diadem-Natter;DE;Laternenanzünder;DE;Katastrophenforschung;DE
+678;Tollkirsche;DE;Diadem-Schildkröte;DE;Laufbursche;DE;Katastrophenfolgenforschung;DE
+679;Toncabaum;DE;Diadem-Seeigel;DE;Leerstandsverwalter, Leerstandsverwalterin;DE;Kaulbarsch-Flunder-Region;DE
+680;Topinambur;DE;Diadem-Sifaka;DE;Lehrer, Lehrerin;DE;Kessel;DE
+681;Tormentill;DE;Diamantbarsche;DE;Lehrkraft;DE;Kettengebirge;DE
+682;Tragant;DE;Diamantfasan;DE;Leibwächter, Leibwächterin;DE;Kies;DE
+683;Traubenkraut;DE;Diamantklapperschlange;DE;Leichenbestatter;DE;Klamm;DE
+684;Trespe;DE;Diamantpiton;DE;Leichenwäscher, Leichenwäscherin;DE;Kleinstadt;DE
+685;Tripmadam;DE;Diamantschildkröte;DE;Leiter, Leiterin;DE;Kliff;DE
+686;Trockenblume;DE;Diana-Meerkatze;DE;Lektor, Lektorin;DE;Klimatologie;DE
+687;Trollblume;DE;Dickfinger;DE;Leuchtturmwärter, Leuchtturmwärterin;DE;Klimaxboden;DE
+688;Trompetenbaum;DE;Dickhornschaf;DE;Lieferant, Lieferantin;DE;Klippe;DE
+689;Tulpe;DE;Dickkopfkapuziner;DE;Lithograph, Lithographin;DE;Konglomerat;DE
+690;Ulme;DE;Dickschnabelpinguin;DE;Lobbyist, Lobbyistin;DE;Koog;DE
+691;Uzara;DE;Dickschwanzbeutelratte;DE;Lokführer, Lokführerin;DE;Korrasion;DE
+692;Usambaraveilchen [1];DE;Dickschwanz-Scorpion;DE;Lokomotivführer, Lokomotivführerin;DE;Krater;DE
+693;Vallisnerie;DE;Diebskäfer;DE;Luftbildauswerter, Luftbildauswerterin;DE;Kreis;DE
+694;Vanille;DE;Dingo;DE;Magd;DE;Kreisstadt;DE
+695;Veilchen;DE;Dinosaurier;DE;Makler, Maklerin;DE;Krenal;DE
+696;Venusfliegenfalle;DE;Dione-Natter;DE;Maler, Malerin;DE;Kreuzung;DE
+697;Venushaar;DE;Diskusbuntbarsch;DE;Manager, Managerin;DE;Kristallographie;DE
+698;Verbene;DE;Diskussalmler;DE;Maniküre;DE;Kuppe;DE
+699;Vergissmeinnicht;DE;Distelfalter;DE;Mannequin;DE;Küste;DE
+700;Vogelknöterich;DE;Distelfink;DE;Markscheider;DE;Lagune;DE
+701;Vogelmiere;DE;dodo;DE;Marktfrau;DE;Land;DE
+702;Wacholder;DE;Dosenschildkröte;DE;Marktschreier;DE;Landenge;DE
+703;Walch;DE;Döbel;DE;Maschinenbauer, Maschinenbauerin;DE;Landkreis;DE
+704;Waldkiefer;DE;Dögling;DE;Maschinist, Maschinistin;DE;Landrat;DE
+705;Waldmeister;DE;Dogge;DE;Maskenbildner, Maskenbildnerin;DE;Landratsamt;DE
+706;Walnuss;DE;Doggenhai;DE;Masseur, Masseurin, Masseuse;DE;Landstraße;DE
+707;Warzenkraut;DE;Dohle;DE;Materialwart;DE;Landzunge;DE
+708;Wasabi;DE;Doktorfisch;DE;Matrose;DE;Laterit;DE
+709;Wasserfalle;DE;Dolchfrosch;DE;Mauermann;DE;Länge;DE
+710;Wasserfenchel;DE;Dolchstichtaube;DE;Maurer, Maurerin;DE;Längengrad;DE
+711;Wasserhyazinthe;DE;Dompfaff;DE;Mechaniker, Mechanikerin;DE;Längsfluss;DE
+712;Wasserkastanie;DE;Donaulachs;DE;Mechatroniker, Mechatronikerin;DE;Längstal;DE
+713;Wassernuss;DE;Doppelbindenarassari;DE;Medienhistoriker, Medienhistorikerin;DE;Lee;DE
+714;Wasserpest;DE;Doppelhornvogel;DE;Medienwissenschaftler, Medienwissenschaftlerin;DE;Lehm;DE
+715;Wasserpfeffer;DE;Doppelschnepfe;DE;Metzger, Metzgerin;DE;Lido;DE
+716;Wassersalat;DE;Dorkasgazelle;DE;Minijobber, Minijobberin;DE;Liman;DE
+717;Wasserschlauch;DE;Dorneidechse;DE;Minister, Ministerin;DE;Limnologie;DE
+718;Wegwarte;DE;Dornfingerspinne;DE;Ministerialdirigent, Ministerialdirigentin;DE;Löss;DE
+719;Weide;DE;Dorngrasmücke;DE;Möbelrestaurator, Möbelrestauratorin;DE;Luv;DE
+720;Weihnachtsstern;DE;Dornhai;DE;Möbeltischler, Möbeltischlerin;DE;Maar;DE
+721;Weißdorn;DE;Dornroche;DE;Model;DE;Marsch;DE
+722;Weißzunge;DE;Dornschwanzbilch;DE;Modellbauer, Modellbauerin;DE;Meer;DE
+723;Weizen;DE;Dornschwanzkink;DE;Moderator, Moderatorin;DE;Meerauge;DE
+724;Welwitschie;DE;Dornteufel;DE;Modist, Modistin;DE;Meerenge;DE
+725;Wermut;DE;Dornzirpe;DE;Mönch;DE;Meridian;DE
+726;Wicke;DE;Dorsch;DE;Monteur, Monteurin;DE;Mergel;DE
+727;Widerbart;DE;Dottertukan;DE;Müller, Müllerin;DE;Meteorologie;DE
+728;Wiesenblume;DE;Drachenfisch;DE;Mülllader, Müllladerin;DE;Metropole;DE
+729;Wiesenklee;DE;Drachenflosser;DE;Müllmann, Müllfrau;DE;Mineralogie;DE
+730;Wiesenknopf;DE;Drahthaarterrier;DE;Müllwerker, Müllwerkerin;DE;Mittelgebirge;DE
+731;Wiesenschaumkraut;DE;Drehwurm;DE;Mützenmacher, Mützenmacherin;DE;Mittellauf;DE
+732;Wiesenpflanze;DE;Dreibandsalmler;DE;Mundschenk;DE;Mittelstadt;DE
+733;Winde;DE;Dreibinden-Ziersalmler;DE;Musikant, Musikantin;DE;Moder;DE
+734;Winteraster;DE;Dreieckmuschel;DE;Musiker, Musikerin;DE;Mond;DE
+735;Wintergrün;DE;Dreifingerfaultier;DE;Nachlassverwalter, Nachlassverwalterin;DE;Moräne;DE
+736;Wolfsmilch;DE;Dreihornchamäleon;DE;Nachtportier;DE;Morgenpunkt;DE
+737;Wolfstrapp;DE;Dreihornkäfer;DE;Nachtwächter, Nachtwächterin;DE;Mull;DE
+738;Wollblume;DE;Dreikantwurm;DE;Näher, Näherin;DE;Mündung;DE
+739;Wucherblume;DE;Dreikielschilkröte;DE;Nonne;DE;Mure;DE
+740;Wunderbaum;DE;Dreiklauer;DE;Nuklearforscher, Nuklearforscherin;DE;Muttergestein;DE
+741;Wunderblume;DE;Dreilinienbärbling;DE;Numismatiker, Numismatikerin;DE;Nagelfluh;DE
+742;Wundklee;DE;Dreipunkt-Korallenbarsch;DE;Ober;DE;Naturraum;DE
+743;Wundschwamm;DE;Dreischwanzbarsch;DE;Oberarzt, Oberärztin;DE;Nebenfluss;DE
+744;Wurmfarn;DE;Dreistreifenpalmenroller;DE;Oberin;DE;Nehrung;DE
+745;Yamswurzel;DE;Dreistreifensalmler;DE;Oberlehrer, Oberlehrerin;DE;Nekton;DE
+746;Yohimbe;DE;Dreizehefaultier;DE;Oberstaatsanwalt, Oberstaatsanwältin;DE;Neigung;DE
+747;Yucca;DE;Dreizehespecht;DE;Oberstudienrat, Oberstudienrätin;DE;Neuston;DE
+748;Ysop;DE;Drill;DE;Ölmüller, Ölmüllerin;DE;Niederschlag;DE
+749;Zahntrost;DE;Drohne;DE;Ökologe, Ökologin;DE;Niederung;DE
+750;Zahnwurz;DE;Dromedar;DE;Ökotrophologe, Ökotrophologin;DE;Nord;DE
+751;Zaubernuss;DE;Drongos;DE;Önologe, Önologin;DE;Norden;DE
+752;Zaunrübe;DE;Dronte;DE;Ofensetzer, Ofensetzerin;DE;Nordfrühling;DE
+753;Zaunwinde;DE;Drosophila;DE;Ofensetzermeister, Ofensetzermeisterin;DE;Nordherbst;DE
+754;Zeder;DE;Drossel;DE;Offizier, Offizierin;DE;nördlich;DE
+755;Zierblume;DE;Drosselrohrsänger;DE;Ölraffinierer, Ölraffiniererin;DE;Nordsommer;DE
+756;Ziergewächs;DE;Drückerfisch;DE;Onkologe, Onkologin;DE;Nordwinter;DE
+757;Zierhecke;DE;Drusenkopf;DE;Ontologe, Ontologin;DE;Nordost;DE
+758;Ziergehölz;DE;Dryas;DE;Ophtalmologe, Ophtalmologin;DE;Nordosten;DE
+759;Ziest;DE;Dschelada;DE;Optiker, Optikerin;DE;nordöstlich;DE
+760;Zimbelkraut;DE;Dschiggetai;DE;Optikermeister, Optikermeisterin;DE;Nordwest;DE
+761;Zindelkraut;DE;Dschungelrind;DE;Oralchirurg, Oralchirurgin;DE;Nordwesten;DE
+762;Zinnie;DE;Duckaffe;DE;Organist, Organistin;DE;nordwestlich;DE
+763;Zinnkraut;DE;Dünengazelle;DE;Ornithologe, Ornithologin;DE;Normalnull;DE
+764;Zirmet;DE;Dünnfingergeko;DE;Orthopäde, Orthopädin;DE;Nunatak;DE
+765;Zitronenbaum;DE;Dünnleib;DE;Orthopädiemeister, Orthopädiemeisterin;DE;Oase;DE
+766;Zittergras;DE;Düsterbiene;DE;Orthoptist, Orthoptistin;DE;Oberflächenwasser;DE
+767;Zitwer;DE;Dukatenfalter;DE;Otorhinolaryngologe, Otorhinolaryngologin;DE;Oberlauf;DE
+768;Zuckerrohr;DE;Dummkopfwal;DE;Packer, Packerin;DE;Ödland;DE
+769;Zuckertang;DE;Dungkäfer;DE;Pädagoge, Pädagogin;DE;Ort;DE
+770;Zwergholunder;DE;Durukulis;DE;Papst, Päpstin;DE;Orterde;DE
+771;Zwetschke;DE;Dybowskihirsch;DE;Parfümeur, Parfümeurin;DE;Ortstein;DE
+772;Zwiebel;DE;Dytiscus;DE;Parkwächter, Parkwächterin;DE;Ost;DE
+773;Zweiblatt;DE;Eber;DE;Pastor, Pastorin;DE;Osten;DE
+774;Zymbelkraut;DE;Echse;DE;Pauker;DE;Ostpunkt;DE
+775;Ortie des champs;FR;Edelfasan;DE;Pedell;DE;östlich;DE
+776;Rouget des champs;FR;Egel;DE;Pensionär, Pensionärin;DE;Ozean;DE
+777;Véronique des champs;FR;Eichelhäher;DE;Pensionist, Pensionistin;DE;Ozeanographie;DE
+778;Herbe de la noblesse;FR;Eichenspinner;DE;Pfarrer, Pfarrerin;DE;Packeis;DE
+779;Fougère aigle;FR;Eichhörnchen;DE;Pferdemetzger, Pferdemetzgerin;DE;Paläoklimatologie;DE
+780;Épine-vinette;FR;Eidechse;DE;Pflegekraft;DE;Paläontologie;DE
+781;Agar-agar;FR;Eiderente;DE;Pfleger, Pflegerin;DE;Pampa;DE
+782;Agave;FR;Einsiedlerkrebs;DE;Pharmavertreter, Pharmavertreterin;DE;Pass;DE
+783;Lis en épi;FR;Eintagsfliege;DE;Philologe, Philologin;DE;Petrologie;DE
+784;Érable;FR;Eisbär;DE;Philosoph, Philosophin;DE;Petrographie;DE
+785;Acanthe;FR;Eisvogel;DE;Physiotherapeut, Physiotherapeutin;DE;Petrophysik;DE
+786;Acacia;FR;Elch;DE;Pilot, Pilotin;DE;Phanerozoikum;DE
+787;Ancolie;FR;Elen;DE;Podologe, Podologin;DE;Physische Geographie;DE
+788;Alante;FR;Elefant;DE;Polier;DE;Piedmont;DE
+789;Algue;FR;Elritze;DE;Politiker, Politikerin;DE;Pik;DE
+790;Fougère algue;FR;Elster;DE;Polizeipräsident, Polizeipräsidentin;DE;Pilzfelsen;DE
+791;Alcane;FR;Emu;DE;Polizeipsychologe, Polizeipsychologin;DE;Plankton;DE
+792;Armure d'Allermann;FR;Engelhai;DE;Polizeispitzel;DE;Plate;DE
+793;Almrausch;FR;Engerling;DE;Polizist, Polizistin;DE;Plateau;DE
+794;Aloès;FR;Ente;DE;Porträtist, Porträtistin;DE;Pleistozän;DE
+795;Ombelle des Alpes;FR;Erdferkel;DE;Posaunist, Posaunistin;DE;Plenterwald;DE
+796;Rose des Alpes;FR;Erdmännchen;DE;Postbote, Postbotin;DE;Pleuston;DE
+797;Cyclamen;FR;Erpel;DE;Postkutscher;DE;Pliobaren;DE
+798;Amarante;FR;Esel;DE;Priester, Priesterin;DE;Pliozän;DE
+799;Amarelle;FR;Eselspinguin;DE;Producer;DE;Pluton;DE
+800;Ambroisie;FR;Eule;DE;Professor, Professorin;DE;Podsol;DE
+801;Ammei;FR;Falkennachtschwalbe;DE;Programmierer, Programmiererin;DE;podsolieren;DE
+802;Ammoniacum;FR;Falter;DE;Profiler, Profilerin;DE;Pol;DE
+803;Rumex;FR;Färberfrosch;DE;Prospektor, Prospektorin;DE;polar;DE
+804;Ananas;FR;Fasan;DE;Prostituierte;DE;Polarkreis;DE
+805;Andel;FR;Faultier;DE;Psychoanalytiker, Psychoanalytikerin;DE;Polder;DE
+806;Épine-vinette;FR;Fechterschnecke;DE;Psychiater, Psychiaterin;DE;Polje;DE
+807;Anémone;FR;Feenseeschwalbe;DE;Psychologe, Psychologin;DE;Ponore;DE
+808;Angélique;FR;Feldgrille;DE;Psychotherapeut, Psychotherapeutin;DE;Porenvolumen;DE
+809;Angostura;FR;Feldhase;DE;Publizist, Publizistin;DE;Prärie;DE
+810;Anis;FR;Feldmaus;DE;Putzfrau;DE;Prallhang;DE
+811;Pomme;FR;Felsenpinguin;DE;Putzmann;DE;Priel;DE
+812;Abricot;FR;Feuersalamander;DE;Putzkraft;DE;Proterozoikum;DE
+813;Araucaria;FR;Fichtenwaldsänger;DE;Putzmacherin;DE;Pseudogley;DE
+814;Palmier aréquier;FR;Fingertier;DE;Quarantainearzt, Quarantaineärztin;DE;Puszta;DE
+815;Aremonie;FR;Fischadler;DE;Quartiermacher;DE;Quelle;DE
+816;Ronce d'Arménie;FR;Fischbandwurm;DE;Querflötist, Querflötistin;DE;Querfluss;DE
+817;Arnica;FR;Fischotter;DE;Quizmaster, Quizmasterin;DE;Quertal;DE
+818;Arroche;FR;Fischreiher;DE;Radiomoderator, Radiomoderatorin;DE;Randmeer;DE
+819;Artichaut;FR;Flachlandgorilla;DE;Räuber, Räuberin;DE;Ranker;DE
+820;Arve;FR;Flamingo;DE;Raumpfleger, Raumpflegerin;DE;Regenschatten;DE
+821;Reine-des-prés;FR;Fledermaus;DE;Rechtsanwalt, Rechtsanwältin;DE;Reliefenergie;DE
+822;Asant;FR;Fliege;DE;Redakteur, Redakteurin;DE;Rendzina;DE
+823;Asarine;FR;Floh;DE;Redaktionsassistentin;DE;Restberg;DE
+824;Aster;FR;Florida-Waldkaninchen;DE;Regisseur, Regisseurin;DE;Ria;DE
+825;Attich;FR;Flugdrache;DE;Reinemachefrau;DE;Riff;DE
+826;Aubergine;FR;Flunder;DE;Reiniger, Reinigerin;DE;Rivier;DE
+827;Euphorbe;FR;Flussdelfin;DE;Reinigungskraft;DE;Rinnensee;DE
+828;Auriculée;FR;Flusskrebs;DE;Reiseführer, Reiseführerin;DE;Röhricht;DE
+829;Azalée;FR;Flusspferd;DE;Rennfahrer, Rennfahrerin;DE;Rohhumus;DE
+830;Valériane;FR;Forelle;DE;Rentier;DE;Rücken;DE
+831;Berce du Caucase;FR;Fossa;DE;Rentner, Rentnerin;DE;Rumpffläche;DE
+832;Raisin d'ours;FR;Frettchen;DE;Reporter, Reporterin;DE;Rumpfgebirge;DE
+833;Lycopode des ours;FR;Frosch;DE;Rettungsassistent, Rettungsassistentin;DE;Rumpftreppe;DE
+834;Ail des ours;FR;Fruchtvampir;DE;Rettungssanitäter, Rettungssanitäterin;DE;Rundhöcker;DE
+835;Oeillet d'Inde;FR;Fuchs;DE;Rettungsschwimmer, Rettungsschwimmerin;DE;Rundling;DE
+836;Berce du Caucase;FR;Fuchsbandwurm;DE;Richter, Richterin;DE;Runse;DE
+837;Basilic;FR;Galagos;DE;Richtschütze;DE;Sand;DE
+838;Basilic;FR;Geburtshelferkröte;DE;Riemenschneider;DE;Sandschliff;DE
+839;Plante de coton;FR;Gämse;DE;Rutenreißer;DE;Sandbank;DE
+840;Plante en gobelet;FR;Gans;DE;Salzsieder;DE;Salzpfanne;DE
+841;Bégonia;FR;Gänsegeier;DE;Sänger, Sängerin;DE;Sandstein;DE
+842;Armoise;FR;Gaur;DE;Sattler, Sattlerin;DE;Sattel;DE
+843;Consoude;FR;Gazelle;DE;Schäfer, Schäferin;DE;Savanne;DE
+844;Consoude;FR;Gecko;DE;Schaffner, Schaffnerin;DE;Schäre;DE
+845;Benjoin;FR;Gefleckter Kohltriebrüssler;DE;Schankwirt, Schankwirtin;DE;Schichtstufe;DE
+846;Berbéris;FR;Gefurchter Dickmaulrüssler;DE;Schauermann;DE;Schiefe der Ekliptik;DE
+847;Bergamote;FR;Geier;DE;Schauspieler, Schauspielerin;DE;Schliffgrenze;DE
+848;Bertram;FR;Gelbbrustwaldsänger;DE;Schausteller, Schaustellerin;DE;Schlucht;DE
+849;Genêt à balai;FR;Gelbscheitelwaldsänger;DE;Scherge;DE;Schluff;DE
+850;Poivre de bétel;FR;Gelbstirnwaldsänger;DE;Schiedsrichter, Schiedsrichterin;DE;Schelf;DE
+851;Bétonnière;FR;Gemeine Feuerwanze;DE;Schiffbauer, Schiffbauerin;DE;Schneegrenze;DE
+852;Biberelle;FR;Gemeine Florfliege;DE;Schiffer;DE;Scholle;DE
+853;Brachypode rampant;FR;Gemeine Wiesenwanze;DE;Schiffsingenieur, Schiffsingenieurin;DE;Schotter;DE
+854;Binche;FR;Gemeiner Graurüssler;DE;Schildermaler, Schildermalerin;DE;Schratte;DE
+855;Jonc;FR;Gemeiner Holzbock;DE;Schindelmacher;DE;Schuttkegel;DE
+856;Bouleau;FR;Gemeiner Nagekäfer;DE;Schinder;DE;Schwarzerde;DE
+857;Poirier;FR;Gemse;DE;Schindler;DE;Schwarztorf;DE
+858;Vert de poirier;FR;Gepard;DE;Schlachter, Schlachterin;DE;Scrub;DE
+859;Épiscopée;FR;Gerfalke;DE;Schlächter, Schlächterin;DE;Sediment;DE
+860;Amertume;FR;Geringelte Mordwanze;DE;Schleuser, Schleuserin;DE;See;DE
+861;Trèfle amer;FR;Gibbon;DE;Schleusenwärter, Schleusenwärterin;DE;Seitenmoräne;DE
+862;Epsom;FR;Gimpel;DE;Schlosser, Schlosserin;DE;Senke;DE
+863;Varech vésiculeux;FR;Giraffe;DE;Schmied, Schmiedin;DE;Senkung;DE
+864;Oreiller bleu;FR;Glanzvogel;DE;Schmuckdesigner, Schmuckdesignerin;DE;Serosem;DE
+865;Lys bleu;FR;Glasbarsch;DE;Schneider, Schneiderin;DE;Sohlental;DE
+866;Racine de sang;FR;Glattwal;DE;Schöffe, Schöffin;DE;Solifluktion;DE
+867;Mariée en cheveux;FR;Glockenvogel;DE;Schornsteinfeger, Schornsteinfegerin;DE;Soll;DE
+868;Fenugrec;FR;Gnu;DE;Schrankenwärter, Schrankenwärterin;DE;Sommer;DE
+869;Fève;FR;Goldfisch;DE;Schreiber, Schreiberin;DE;Spitze;DE
+870;Sarriette;FR;Goldflügelwaldsänger;DE;Schreiner, Schreinerin;DE;Sprungschicht;DE
+871;Trèfle de Bokhara;FR;Goldlachs;DE;Schriftsetzer, Schriftsetzerin;DE;Stadt;DE
+872;Bourdaine;FR;Goldleiste;DE;Schriftsteller, Schriftstellerin;DE;Staumauer;DE
+873;Boldo;FR;Goldmulle;DE;Schuhmacher, Schuhmacherin;DE;Stausee;DE
+874;Bonsaï;FR;Goldschnepfe;DE;Schuhputzer, Schuhputzerin;DE;Steigung;DE
+875;Bourrache;FR;Goldschopfpinguin;DE;Schuster;DE;Steilküste;DE
+876;Braunelle;FR;Goldwaldsänger;DE;Schwertfeger;DE;Steine und Erden;DE
+877;Racine brune;FR;Goldwangenwaldsänger;DE;Schwester;DE;Steineis;DE
+878;Noix de Bretagne;FR;Goldzeisig;DE;Schwimmmeister, Schwimmmeisterin;DE;Steinpflaster;DE
+879;ipomée;FR;Gorilla;DE;Seelsorger, Seelsorgerin;DE;Steinsalz;DE
+880;ortie;FR;Gottesanbeterin;DE;Seemann;DE;Steinschlag;DE
+881;Ronce;FR;Grasfrosch;DE;Seifensieder, Seifensiederin;DE;Stenotopismus;DE
+882;Bruyère;FR;Grasmücke;DE;Sekretär, Sekretärin;DE;Steppe;DE
+883;Cresson de fontaine;FR;Graubär;DE;Setzer, Setzerin;DE;Stern;DE
+884;Bubenstrauch;FR;Graufuchs;DE;Sklave, Sklavin;DE;Stotzen;DE
+885;Hêtre;FR;Grauliest;DE;Soldat, Soldatin;DE;Straße;DE
+886;Buis;FR;Grauwal;DE;Sommelier;DE;Stratigraphie;DE
+887;Sarrasin;FR;Grevyzebra;DE;Souffleur, Souffleuse;DE;Streu;DE
+888;Arbuste de cajeput;FR;Grizzlybär;DE;Sozialarbeiter, Sozialarbeiterin;DE;Strom;DE
+889;Arbuste calabar;FR;Grille;DE;Spengler, Spenglerin;DE;Strömung;DE
+890;Calla;FR;Groppe;DE;Spinner, Spinnerin;DE;Subtropen;DE
+891;Bois de camphrier;FR;Großer Rapsstängelrüssler;DE;Spion, Spionin;DE;subtropisch;DE
+892;Chicorée;FR;Großnilhecht;DE;Spitzenklöpplerin;DE;Süd;DE
+893;Arbre de Chine;FR;Grottenolm;DE;Sportler, Sportlerin;DE;Süden;DE
+894;Tilleul de Chine;FR;Grundel;DE;Staatsanwalt, Staatsanwältin;DE;Südfrühling;DE
+895;Rose de Noël;FR;Grüne Mamba;DE;Stallknecht;DE;Südherbst;DE
+896;Epine du Christ;FR;Grüne Stinkwanze;DE;Standortleiter;DE;südlich;DE
+897;Chrysanthème;FR;Grünfink;DE;Starkstromelektriker, Starkstromelektrikerin;DE;Südsommer;DE
+898;Chrysarobine;FR;Grünrüssler;DE;Steinmetz;DE;Südwinter;DE
+899;Cimicifuga;FR;Grünwaldsänger;DE;Stellmacher, Stellmacherin;DE;Südost;DE
+900;Herbe à citronnelle;FR;Guanako;DE;Steuerberater, Steuerberaterin;DE;Südosten;DE
+901;Clématite;FR;Guppy;DE;Steuermann;DE;südöstlich;DE
+902;Comfrey;FR;Gürtelmull;DE;Steward, Stewardess;DE;Südwest;DE
+903;Cormobionta;FR;Gürteltier;DE;Stickerin;DE;Südwesten;DE
+904;Dahlia;FR;Haarnasenwombat;DE;Straßenerhaltungsfachmann;DE;südwestlich;DE
+905;Feuille épaisse;FR;Haarschopftaucher;DE;Straßenbahnfahrer, Straßenbahnfahrerin;DE;Tafel;DE
+906;Aneth;FR;Halsbanddrossel;DE;Straßenfeger, Straßenfegerin;DE;Tafelberg;DE
+907;Dingel;FR;Häherkuckuck;DE;Straßenkehrer, Straßenkehrerin;DE;Tafelland;DE
+908;Épeautre;FR;Hahn;DE;Straßenmädchen;DE;Tagundnachtgleiche;DE
+909;Diptam;FR;Hai;DE;Stricher;DE;Taiga;DE
+910;Chardon;FR;Haldenwaldsänger;DE;Stuckateur, Stuckateurin;DE;Tal;DE
+911;Djamba;FR;Halsbandsittich;DE;Stuhlbauer, Stuhlbauerin;DE;Talkessel;DE
+912;Barbarie;FR;Hammerhai;DE;Stuntman, Stuntwomen;DE;Talsohle;DE
+913;Baie double;FR;Hamster;DE;Supervisor, Supervisorin;DE;Talsperre;DE
+914;Double graine;FR;Hängebauchschwein;DE;System- und Anwendungsadministrator, System- und Anwendungsadministratorin;DE;Teich;DE
+915;Dost;FR;Hase;DE;System- und Anwendungsmanager, System- und Anwendungsmanagerin;DE;Tektonik;DE
+916;Douglas;FR;Haselmaus;DE;Systemanalytiker, Systemanalytikerin;DE;tektonisch;DE
+917;Fleur de trèfle;FR;Haubentaucher;DE;Tankwart, Tankwartin;DE;Tide;DE
+918;Dragonnier;FR;Hausmaus;DE;Tapezierer, Tapeziererin;DE;Tiefebene;DE
+919;Sanglier du dragon;FR;Hausratte;DE;Taschendieb, Taschendiebin;DE;Tiefland;DE
+920;Tête de dragon;FR;Hausschwein;DE;Taucher, Taucherin;DE;Tiefsee;DE
+921;Gueule de dragon;FR;Hawaiigans;DE;Taxidermist, Taxidermistin;DE;Ton;DE
+922;Trident;FR;Heidelerche;DE;Taxifahrer, Taxifahrerin;DE;Tonmineral;DE
+923;Trident;FR;Heilbutt;DE;Techniker, Technikerin;DE;Topographie;DE
+924;Trident;FR;Helmturako;DE;Teigbereiter, Teigbereiterin;DE;Torf;DE
+925;Dumpalme;FR;Henne;DE;Telefonist, Telefonistin;DE;Trauf;DE
+926;Duwock;FR;Herbstgrasmilbe;DE;Tellerwäscher, Tellerwäscherin;DE;Treibeis;DE
+927;Sorbier;FR;Hering;DE;Teppichknüpfer, Teppichknüpferin;DE;Trockenfluss;DE
+928;Racine de sorbier;FR;Heringshai;DE;Tierarzt, Tierärztin;DE;Trockental;DE
+929;Edelweiss;FR;Hermelin;DE;Tierpfleger, Tierpflegerin;DE;Trogtal;DE
+930;Lierre;FR;Heuschrecke;DE;Tierpräparator, Tierpräparatorin;DE;Tropen;DE
+931;Vigne d'honneur;FR;Hirsch;DE;Tischler, Tischlerin;DE;tropisch;DE
+932;Guimauve;FR;Hirschkäfer;DE;Toningenieur, Toningenieurin;DE;Tschernosem;DE
+933;Chêne;FR;Hoatzin;DE;Tonmeister, Tonmeisterin;DE;Tümpel;DE
+934;Einbeere;FR;Hochlandrind;DE;Touristiker, Touristikerin;DE;Tundra;DE
+935;engrain;FR;Höckerschwan;DE;Töpfer, Töpferin;DE;Ufer;DE
+936;Fleur de glace;FR;Holzbrüter;DE;Topograf, Topografin;DE;Umlaufberg;DE
+937;Aconit;FR;Holzwurm;DE;Topograph, Topographin;DE;Unland;DE
+938;Verveine;FR;Honigbiene;DE;Totengräber, Totengräberin;DE;Unterlauf;DE
+939;Éleuthérocoque;FR;Hornfrosch;DE;Trainer, Trainerin;DE;Urstromtal;DE
+940;Amidonnier;FR;Hornisse;DE;Traktorist, Traktoristin;DE;Urwald;DE
+941;Angélique;FR;Hübschgesichtwallaby;DE;Trompeter, Trompeterin;DE;verlanden;DE
+942;Angélique;FR;Hufeisennase;DE;Typograf, Typografin;DE;Verlandung;DE
+943;Gentiane;FR;Huhn;DE;Typograph, Typographin;DE;versauern;DE
+944;Éphédra;FR;Hummelelfe;DE;Übersetzer, Übersetzerin;DE;Versauerung;DE
+945;Arbousier;FR;Hummer;DE;Uhrmacher, Uhrmacherin;DE;versiegeln;DE
+946;Fraise;FR;Hund;DE;Unterhaltungskünstler, Unterhaltungskünstlerin;DE;Versiegelung;DE
+947;Arachide;FR;Hundsfisch;DE;Unternehmensberater, Unternehmensberaterin;DE;Verwerfung;DE
+948;Fumier de terre;FR;Hyäne;DE;Unternehmer, Unternehmerin;DE;verwittern;DE
+949;Angélique des bois;FR;Hyazinth-Ara;DE;Bestattungsunternehmer, Bestattungsunternehmerin;DE;Verwitterung;DE
+950;Frêne;FR;Igel;DE;Urologe, Urologin;DE;Vulkan;DE
+951;Chardon aux ânes;FR;Igelfisch;DE;Verantwortliche, Verantwortlicher;DE;Vulkanologie;DE
+952;Sainfoin;FR;Iltis;DE;Verbrecher, Verbrecherin,;DE;Wadi;DE
+953;Estragon;FR;Imme;DE;Verkäufer, Verkäuferin;DE;Wald;DE
+954;Eucalyptus;FR;Impala;DE;Vermesser, Vermesserin;DE;Waldgrenze;DE
+955;Euphorbium;FR;Inger;DE;Vermögensverwalter, Vermögensverwalterin;DE;Wanderdüne;DE
+956;Fabianacée;FR;Insekt;DE;Vertreter, Vertreterin;DE;Wanderfeldbau;DE
+957;Millet filiforme;FR;Iris;DE;Vertriebsbeauftragter, Vertriebsbeauftragte;DE;Warft;DE
+958;Carthame des teinturiers;FR;Isabellabär;DE;Verwalter, Verwalterin;DE;Wasser;DE
+959;Genêt des teinturiers;FR;Ibis;DE;Veterinär, Veterinärin;DE;Wasserkapazität;DE
+960;Fougère;FR;Jaguar;DE;Viehdieb, Viehdiebin;DE;Wasserscheide;DE
+961;Arbre à pourrir;FR;Jak;DE;Viehhüter;DE;Watt;DE
+962;Figuier;FR;Jack Russell Terrier;DE;Viehzüchter, Viehzüchterin;DE;Wehle;DE
+963;Fétuque;FR;Jaguarundi;DE;Visagist, Visagistin;DE;Weiher;DE
+964;Mâche;FR;Japanmakake;DE;Vokalist, Vokalistin;DE;Weiler;DE
+965;Feldthym;FR;Kabeljau;DE;Volontär, Volontärin;DE;Weißtorf;DE
+966;Poirier des rochers;FR;Katta;DE;Vorarbeiter, Vorarbeiterin;DE;Wendekreis;DE
+967;Fenouil;FR;Kleinstein;DE;Vorstand;DE;Werder;DE
+968;Bois de fenouil;FR;Käfer;DE;Vorstandsmitglied;DE;Werf;DE
+969;Fenouil;FR;Kakerlake;DE;Vorstandsvorsitzender;DE;Werft;DE
+970;Herbe à porcelets;FR;Kamel;DE;Wachmann;DE;West;DE
+971;Fétuque grasse;FR;Kanadawaldsänger;DE;Wärter, Wärterin;DE;Westen;DE
+972;Herbe grasse;FR;Känguru;DE;Wäscherin;DE;westlich;DE
+973;Epicéa;FR;Kaninchen;DE;Weber, Weberin;DE;Westpunkt;DE
+974;Asperge d'épicéa;FR;Kapuzenwaldsänger;DE;Wegelagerer;DE;Wiek;DE
+975;Trèfle à quatre feuilles;FR;Karnickel;DE;Werkzeugmacher, Werkzeugmacherin;DE;Wiesenufer;DE
+976;Digitale;FR;Karpfen;DE;Wertpapierhändler, Wertpapierhändlerin;DE;Windschliff;DE
+977;Herbe à fioritures;FR;Kaschmirhirsch;DE;Wesir;DE;Wirtschaftsgeologie;DE
+978;Herbe de poisson;FR;Kaschmirziege;DE;Winzer, Winzerin;DE;Wurte;DE
+979;Lin;FR;Kater;DE;Wirt, Wirtin;DE;Wüste;DE
+980;Jonc flottant;FR;Katze;DE;Wissenschaftler, Wissenschaftlerin;DE;Wüstung;DE
+981;Lilas;FR;Kaulbarsch;DE;Xylophonist;DE;Yunga;DE
+982;Herbe de psyllium;FR;Kaulquappe;DE;Yogalehrer, Yogalehrerin;DE;Zehrgebiet;DE
+983;Pin sylvestre;FR;Kegelrobbe;DE;Zahlmeister;DE;Zenitalregen;DE
+984;Forsythia;FR;Kellerassel;DE;Zahnarzt, Zahnärztin;DE;Zeugenberg;DE
+985;Bois de France;FR;Kentuckywaldsänger;DE;Zauberer, Zaubererin;DE;Zufluss;DE
+986;Alchémille;FR;Klapperschlange;DE;Zeichner, Zeichnerin;DE;Zwillingsfluss;DE
+987;Sabot de femme;FR;Kliesche;DE;Zeidler, Zeidlerin;DE;Äquator;DE
+988;Miroir de femme;FR;Knoblauchkröte;DE;Zeitungsausträger, Zeitungsausträgerin;DE;Äquinoktium;DE
+989;Racine de femme;FR;Knochenhecht;DE;Zeitungsbote, Zeitungsbotin;DE;;
+990;Bouton de grenouille;FR;Koala;DE;Zeugwart;DE;;
+991;Séneçon du renard;FR;Kodiakbär;DE;Ziffernblattmaler, Ziffernblattmalerin;DE;;
+992;Queue de renard;FR;Kolibri;DE;Zimmerer, Zimmerin;DE;;
+993;Galbanum;FR;Kommafalter;DE;Zimmermädchen;DE;;
+994;Galanga;FR;Komoren-Quastenflosser;DE;Zimmermann;DE;;
+995;Gamandre;FR;Königspython;DE;Zirkusdirektor, Zirkusdirektorin;DE;;
+996;Pâquerette;FR;Kormoran;DE;Zitherspieler, Zitherspielerin;DE;;
+997;Patte d'oie;FR;Kranich;DE;Zofe;DE;;
+998;Patte d'oie;FR;Krähe;DE;Zoologe, Zoologin;DE;;
+999;Garaus;FR;Kreuzkröte;DE;Zugbegleiter, Zugbegleiterin;DE;;
+1000;Rose de jardin;FR;Kreuzotter;DE;Zugeherin;DE;;
+1001;Plante de jardin;FR;Krokodil;DE;Zugehfrau;DE;;
+1002;Fléole des prés;FR;Kronenadler;DE;Zugehhilfe;DE;;
+1003;Gemekemein;FR;Kronwaldsänger;DE;Zwangsverwalter, Zwangsverwalterin;DE;;
+1004;Chèvrefeuille;FR;Kröte;DE;;;;
+1005;Chèvrefeuille;FR;Kugelfisch;DE;;;;
+1006;Chèvrefeuille;FR;Küchenschabe;DE;;;;
+1007;Racine jaune;FR;Kuh;DE;;;;
+1008;Georgine;FR;Lachmöwe;DE;;;;
+1009;Géranium;FR;Lachsforelle;DE;;;;
+1010;Orge;FR;Lama;DE;;;;
+1011;Sumac des épices;FR;Lamm;DE;;;;
+1012;Baies vénéneuses;FR;Landschildkröte;DE;;;;
+1013;Sumac vénéneux;FR;Langschwanzchinchilla;DE;;;;
+1014;Plante vénéneuse;FR;Lar;DE;;;;
+1015;Ginkgo;FR;Laubfrosch;DE;;;;
+1016;Ginseng;FR;Laubsänger;DE;;;;
+1017;Genêt;FR;Laus;DE;;;;
+1018;Herbe de la grâce;FR;Lärmlederkopf;DE;;;;
+1019;Verge d'or;FR;Lederschildkröte;DE;;;;
+1020;Mélisse d'or;FR;Leguan;DE;;;;
+1021;Plume d'or;FR;Lemming;DE;;;;
+1022;Verge d'or;FR;Lemur;DE;;;;
+1023;Orme d'or;FR;Leopard;DE;;;;
+1024;Grâces de Dieu;FR;Leopardgecko;DE;;;;
+1025;Grenadier;FR;Libelle;DE;;;;
+1026;Herbe;FR;Liger;DE;;;;
+1027;Goyave;FR;Lippenbär;DE;;;;
+1028;Guarana;FR;Löwe;DE;;;;
+1029;Goyave;FR;Luchs;DE;;;;
+1030;Gundelbebe;FR;Lurch;DE;;;;
+1031;Sureau;FR;Farbmaus;DE;;;;
+1032;Épervière;FR;Made;DE;;;;
+1033;Avoine;FR;Madenhacker;DE;;;;
+1034;Églantier;FR;Marder;DE;;;;
+1035;Renoncule;FR;Marderhund;DE;;;;
+1036;Crête de coq;FR;Maus;DE;;;;
+1037;Charme;FR;Mädesüß-Perlmutterfalter;DE;;;;
+1038;Hamamélis;FR;Mähnenwolf;DE;;;;
+1039;Chanvre;FR;Maikäfer;DE;;;;
+1040;Haronga;FR;Magnolienwaldsänger;DE;;;;
+1041;Noisetier;FR;Makake;DE;;;;
+1042;Oreille de lièvre;FR;Maki;DE;;;;
+1043;Bourdaine;FR;Makrele;DE;;;;
+1044;Racine de maison;FR;Malaienbär;DE;;;;
+1045;Herbe à brochet;FR;Malvenfalter;DE;;;;
+1046;Églantier;FR;Manado-Quastenflosser;DE;;;;
+1047;Hederich;FR;Mandarinente;DE;;;;
+1048;Bruyère;FR;Mandrill;DE;;;;
+1049;Myrtille;FR;Manta;DE;;;;
+1050;Plante médicinale;FR;Manteltier;DE;;;;
+1051;Gentiane médicinale;FR;Marabu;DE;;;;
+1052;Colchique d'automne;FR;Marder;DE;;;;
+1053;Feuille de cœur;FR;Marienkäfer;DE;;;;
+1054;Pied de biche;FR;Marmelente;DE;;;;
+1055;Herbe des sorcières;FR;Marmorkatze;DE;;;;
+1056;Hibiscus;FR;Märzente;DE;;;;
+1057;Framboise;FR;Mastodon;DE;;;;
+1058;Racine de cerf;FR;Mauerläufer;DE;;;;
+1059;Millet;FR;Mauersegler;DE;;;;
+1060;Bourse à pasteur;FR;Maulesel;DE;;;;
+1061;Camomille creuse;FR;Maultier;DE;;;;
+1062;Dent creuse;FR;Maulwurf;DE;;;;
+1063;Langue creuse;FR;Mauritiusfalke;DE;;;;
+1064;Sureau;FR;Maus;DE;;;;
+1065;Houblon;FR;Mäusebussard;DE;;;;
+1066;Houblon;FR;Meeresfisch;DE;;;;
+1067;Pavot cornu;FR;Meeresschildkröte;DE;;;;
+1068;Bourdaine;FR;Meerestier;DE;;;;
+1069;Langue de chien;FR;Meerkatze;DE;;;;
+1070;Hérisson;FR;Meerneunauge;DE;;;;
+1071;Graine de hérisson;FR;Meerschwein;DE;;;;
+1072;Tube de hérisson;FR;Meerschweinchen;DE;;;;
+1073;Feuille d'immortelle;FR;Megalodon;DE;;;;
+1074;Pervenche;FR;Meise;DE;;;;
+1075;Immortelle;FR;Menschenfloh;DE;;;;
+1076;Gingembre;FR;Messingkäfer;DE;;;;
+1077;Fleur d'insecte;FR;Miesmuschel;DE;;;;
+1078;Iris;FR;Mistkäfer;DE;;;;
+1079;Ive;FR;Mieze;DE;;;;
+1080;Arbuste de jaborandi;FR;Miezekatze;DE;;;;
+1081;Fleur de Saint-Jacques;FR;Milan;DE;;;;
+1082;Racine de Saint-Jacques;FR;Milbe;DE;;;;
+1083;Séneçon jacobéen;FR;Minischwein;DE;;;;
+1084;Séneçon jacobée;FR;Misteldrossel;DE;;;;
+1085;Jasione;FR;Mittelspecht;DE;;;;
+1086;Jalae;FR;Moa;DE;;;;
+1087;Jaléa;FR;Molluske;DE;;;;
+1088;Groseille à maquereau;FR;Monarchfalter;DE;;;;
+1089;Caroube;FR;Mönchswaldsänger;DE;;;;
+1090;Millepertuis;FR;Mondfisch;DE;;;;
+1091;Arbre de Judée;FR;Mondvogel;DE;;;;
+1092;Pigeon de Judée;FR;Moorente;DE;;;;
+1093;Argent de Judée;FR;Moorhuhn;DE;;;;
+1094;Cerisier de Judée;FR;Mops;DE;;;;
+1095;Demoiselle en herbe;FR;Mosaikfadenfisch;DE;;;;
+1096;Vigne vierge;FR;Moschusochse;DE;;;;
+1097;Caféier;FR;Motte;DE;;;;
+1098;Cacaoyer;FR;Möwe;DE;;;;
+1099;Cactus;FR;Mungo;DE;;;;
+1100;Goutte de veau;FR;Mücke;DE;;;;
+1101;Kalisaya;FR;Muli;DE;;;;
+1102;Kalmus;FR;Mull;DE;;;;
+1103;Kamala;FR;Muräne;DE;;;;
+1104;Camomille;FR;Murmeltier;DE;;;;
+1105;Camphre;FR;Muschel;DE;;;;
+1106;Capucine;FR;Mustang;DE;;;;
+1107;Cardamome;FR;Nachtigall;DE;;;;
+1108;Cardobenediktenkraut;FR;Nachtigall-Grashüpfer;DE;;;;
+1109;Pomme de terre;FR;Nackthund;DE;;;;
+1110;Peuplier à fromage;FR;Nacktkatze;DE;;;;
+1111;Châtaigne;FR;Nachtfalter;DE;;;;
+1112;Katechu;FR;Nacktmull;DE;;;;
+1113;Patte de chat;FR;Nacktnasenwombat;DE;;;;
+1114;Kava-Kava;FR;Nacktschnecke;DE;;;;
+1115;Cerfeuil;FR;Nandu;DE;;;;
+1116;Lycopode en massue;FR;Nasenaffe;DE;;;;
+1117;Khella;FR;Nasenbär;DE;;;;
+1118;Laurier-cerise;FR;Nashorn;DE;;;;
+1119;Racine de crotale;FR;Natter;DE;;;;
+1120;Serpentaire à sonnettes;FR;Nautilus;DE;;;;
+1121;Coquelicot à fleurs;FR;Nebelparder;DE;;;;
+1122;Trèfle à quatre feuilles;FR;Neunauge;DE;;;;
+1123;Fougère de trèfle;FR;Nilpferd;DE;;;;
+1124;Bardane;FR;Nördlicher Pfeifhase;DE;;;;
+1125;Oeillet de cloître;FR;Nutria;DE;;;;
+1126;Ortie brûlante;FR;Nymphensittich;DE;;;;
+1127;Ail;FR;Ochse;DE;;;;
+1128;Renouée du Japon;FR;"Ochsenauge (großes, kleines, rostbraunes; Schmetterling)";DE;;;;
+1129;Chardon vert;FR;Ochsenfrosch;DE;;;;
+1130;Chou-fleur;FR;Octopus;DE;;;;
+1131;Arbuste de coca;FR;Ohrenkneifer;DE;;;;
+1132;Noix de cola;FR;Ohrenqualle;DE;;;;
+1133;Millepertuis;FR;Okapi;DE;;;;
+1134;Condurango;FR;Olm;DE;;;;
+1135;Copaïba;FR;Onager;DE;;;;
+1136;Coriandre;FR;Opossum;DE;;;;
+1137;Bleuet;FR;Orca;DE;;;;
+1138;Cornouiller;FR;Orang-Utan;DE;;;;
+1139;Arbre de Koso;FR;Orangefleckwaldsänger;DE;;;;
+1140;Cotonnier;FR;Otter;DE;;;;
+1141;Cresson;FR;Ozelot;DE;;;;
+1142;Épine-vinette;FR;Ölkäfer;DE;;;;
+1143;Crotonier;FR;Pampashase;DE;;;;
+1144;Épinard cubique;FR;Panda;DE;;;;
+1145;Cubèbe;FR;Pangasius;DE;;;;
+1146;Pied-de-biche;FR;Panther;DE;;;;
+1147;Pain de coucou;FR;Pantoffeltierchen;DE;;;;
+1148;Coqueret;FR;Papagei;DE;;;;
+1149;Cumin;FR;Paradiesvogel;DE;;;;
+1150;Curare;FR;Pelikan;DE;;;;
+1151;Courge;FR;Pelikanaal;DE;;;;
+1152;Curcuma;FR;Perlsteißhuhn;DE;;;;
+1153;Gaillet gratteron;FR;Perserkatze;DE;;;;
+1154;Chénopode;FR;Peterfisch;DE;;;;
+1155;Laminaria;FR;Pfau;DE;;;;
+1156;Mélèze;FR;Pfauenauge;DE;;;;
+1157;Herbe à laser;FR;Pfauenaugenbutt;DE;;;;
+1158;Pin de montagne;FR;Pfeilgiftfrosch;DE;;;;
+1159;Poireau;FR;Pferd;DE;;;;
+1160;Herbe à poux;FR;Pieperwaldsänger;DE;;;;
+1161;Lavande;FR;Pillendreher;DE;;;;
+1162;Arbre de vie;FR;Pinguin;DE;;;;
+1163;Anémone hépatique;FR;Polarbär;DE;;;;
+1164;Lin;FR;Polarfuchs;DE;;;;
+1165;Cameline;FR;Polyp;DE;;;;
+1166;Linaire;FR;Pottwal;DE;;;;
+1167;Levkoja;FR;Primat;DE;;;;
+1168;Pied d'alouette;FR;Puma;DE;;;;
+1169;Liane;FR;Purpurbär;DE;;;;
+1170;Oeillet d'Inde;FR;Purpurbock;DE;;;;
+1171;Livèche;FR;Purpurkopfbarbe;DE;;;;
+1172;Lys;FR;Pute;DE;;;;
+1173;Troène;FR;Puter;DE;;;;
+1174;Lys;FR;Quagga;DE;;;;
+1175;Tilleul;FR;Qualle;DE;;;;
+1176;Lentille;FR;Quastenflosser;DE;;;;
+1177;Litchi;FR;Quokka;DE;;;;
+1178;Lobelia;FR;Rabe;DE;;;;
+1179;lobélie;FR;Rabenkrähe;DE;;;;
+1180;Herbe de la cuillère;FR;Ratte;DE;;;;
+1181;Lolch;FR;Ratten-Lungenwurm;DE;;;;
+1182;Laurier;FR;Raubfisch;DE;;;;
+1183;Laurier-cerise;FR;Raubfuß-Bussard;DE;;;;
+1184;Laurier rose;FR;Raubtier;DE;;;;
+1185;Racine de lotus;FR;Raubvogel;DE;;;;
+1186;Gueule de loup;FR;Raufußkauz;DE;;;;
+1187;Gueule-de-loup;FR;Rauhaardackel;DE;;;;
+1188;Pissenlit;FR;Raupe;DE;;;;
+1189;Pulmonaire;FR;Rebhuhn;DE;;;;
+1190;Lupin;FR;Reblaus;DE;;;;
+1191;Luzerne;FR;Regenbogenforelle;DE;;;;
+1192;Reine des prés;FR;Regenpfeifer;DE;;;;
+1193;Mahonia;FR;Regenwurm;DE;;;;
+1194;Ma-Huang;FR;Reh;DE;;;;
+1195;Muguet de mai;FR;Rehbock;DE;;;;
+1196;Maïs;FR;Rehböckchen;DE;;;;
+1197;Marjolaine à coquilles;FR;Rehkitz;DE;;;;
+1198;Épinards de Malabar;FR;Reiher;DE;;;;
+1199;Mauve;FR;Reinwardt-Arassari;DE;;;;
+1200;Séquoia;FR;Ren;DE;;;;
+1201;Mandarinier;FR;Rennmaus;DE;;;;
+1202;Manna;FR;Rennschwein;DE;;;;
+1203;Treille d'homme;FR;Rennvogel;DE;;;;
+1204;Bouclier d'homme;FR;Rentier;DE;;;;
+1205;Litière d'homme;FR;Reptil;DE;;;;
+1206;Maranta;FR;Rhesusaffe;DE;;;;
+1207;Marguerite;FR;Rhinozeros;DE;;;;
+1208;Chardon-Marie;FR;Riesenbastkäfer;DE;;;;
+1209;Herbe de Marie;FR;Riesenhai;DE;;;;
+1210;Marille;FR;Riesenkrake;DE;;;;
+1211;Marronnier;FR;Riesenschildkröte;DE;;;;
+1212;Messicole;FR;Riesentukan;DE;;;;
+1213;Amour de la mesure;FR;Rind;DE;;;;
+1214;Herbe à mât;FR;Rinderbandwurm;DE;;;;
+1215;Matico;FR;Ringdrossel;DE;;;;
+1216;Poivre des murailles;FR;Ringelgans;DE;;;;
+1217;Mûrier;FR;Ringelnatter;DE;;;;
+1218;Trèfle à quatre feuilles;FR;Ringeltaube;DE;;;;
+1219;Raifort;FR;Robbe;DE;;;;
+1220;Oignon de mer;FR;Rochen;DE;;;;
+1221;Meier;FR;Rohrdommel;DE;;;;
+1222;Racine de maître;FR;Rohrratte;DE;;;;
+1223;Annonce;FR;Rohrweihe;DE;;;;
+1224;Mélisse;FR;Rosenköpfchen;DE;;;;
+1225;Melon;FR;Rosenwaldsänger;DE;;;;
+1226;Arbre à melon;FR;Rostscheitelwaldsänger;DE;;;;
+1227;Merk;FR;Rotbarsch;DE;;;;
+1228;Étoile de lait;FR;Rotbrasse;DE;;;;
+1229;Nèfle;FR;Rote Mordwanze;DE;;;;
+1230;Gui;FR;Roter Brüllaffe;DE;;;;
+1231;Fleur de midi;FR;Rotfuchs;DE;;;;
+1232;Coquelicot;FR;Rothalsgans;DE;;;;
+1233;Carotte;FR;Rothalstaucher;DE;;;;
+1234;Molène;FR;Rotkehlchen;DE;;;;
+1235;Monarde;FR;Rotkropfarassari;DE;;;;
+1236;Violette de lune;FR;Rotluchs;DE;;;;
+1237;Abondance de tourbe;FR;Rotmilan;DE;;;;
+1238;Roi des tourbières;FR;Rotnackenarassari;DE;;;;
+1239;Mousse;FR;Rotschwanz;DE;;;;
+1240;Airelle des marais;FR;Rotsteißarassari;DE;;;;
+1241;Muscari;FR;Rotwangenschildkröte;DE;;;;
+1242;Muflier musqué;FR;Rotwild;DE;;;;
+1243;Muira-puama;FR;Rotwolf;DE;;;;
+1244;Moumoute;FR;Rotzunge;DE;;;;
+1245;Noix de muscade;FR;Rubinfleckwaldsänger;DE;;;;
+1246;Ergot de seigle;FR;Rubinkehlkolibri;DE;;;;
+1247;Cumin mère;FR;Ruderfrosch;DE;;;;
+1248;Myrrhe;FR;Sardelle;DE;;;;
+1249;Myrte;FR;Säbelschnäbler;DE;;;;
+1250;Onagre;FR;Säbelzahntiger;DE;;;;
+1251;Nocturne;FR;Sägefisch;DE;;;;
+1252;Violette de nuit;FR;Säger;DE;;;;
+1253;Herbe à ongles;FR;Saibing;DE;;;;
+1254;Narcisse;FR;Salamander;DE;;;;
+1255;Langue de vipère;FR;Salangane;DE;;;;
+1256;Graine de nègre;FR;Salm;DE;;;;
+1257;Œillet;FR;Salmler;DE;;;;
+1258;Oeillet d'Inde;FR;Sandaal;DE;;;;
+1259;Racine de nid;FR;Sanderling;DE;;;;
+1260;Oeillet d'Inde;FR;Sandfloh;DE;;;;
+1261;Laitue du Nil;FR;Sandlaufkäfer;DE;;;;
+1262;Nielle des blés;FR;Sandregenpfeifer;DE;;;;
+1263;Norne;FR;Sandwespe;DE;;;;
+1264;Noix;FR;Sardine;DE;;;;
+1265;Oeil de bœuf;FR;Sattelrobbe;DE;;;;
+1266;Oeillet d'Inde;FR;Sau;DE;;;;
+1267;Ohnhorn;FR;Säuger;DE;;;;
+1268;Olivier;FR;Säugetier;DE;;;;
+1269;Orchidée;FR;Schabe;DE;;;;
+1270;Olivier;FR;Schabrackenschakal;DE;;;;
+1271;Laurier-rose;FR;Schachbrett;DE;;;;
+1272;Oliban;FR;Schaf;DE;;;;
+1273;Olivier;FR;Schakal;DE;;;;
+1274;Orant;FR;Scharbe;DE;;;;
+1275;Origan;FR;Scheidenschnabel;DE;;;;
+1276;Osterluzei;FR;Schellfisch;DE;;;;
+1277;Arbre de pagode;FR;Scheltopusik;DE;;;;
+1278;Pamplemousse;FR;Scherenschnabel;DE;;;;
+1279;Bois de Panama;FR;Scherflein;DE;;;;
+1280;Fleur de panthère;FR;Schermaus;DE;;;;
+1281;Herbe de perroquet;FR;Schildkröte;DE;;;;
+1282;Papaye;FR;Schildlaus;DE;;;;
+1283;Peuplier;FR;Schill;DE;;;;
+1284;Passiflore;FR;Schimmel;DE;;;;
+1285;Passiflore;FR;Schimpanse;DE;;;;
+1286;Passiflore;FR;Schäfer;DE;;;;
+1287;Panais;FR;Schlammläufer;DE;;;;
+1288;Pélargonium;FR;Schlammpeitzger;DE;;;;
+1289;Baume du Pérou;FR;Schlammteufel;DE;;;;
+1290;pétasite;FR;Schlange;DE;;;;
+1291;Persil;FR;Schlangenweihe;DE;;;;
+1292;Pétunia;FR;Schlangernstern;DE;;;;
+1293;Pfaffenhütchen;FR;Schlankschnabelbülbül;DE;;;;
+1294;Menthe poivrée;FR;Schleiche;DE;;;;
+1295;Pivoine;FR;Schleie;DE;;;;
+1296;Pivoine;FR;Schleiereule;DE;;;;
+1297;Piment;FR;Schleimaal;DE;;;;
+1298;Pimpinelle;FR;Schleimfisch;DE;;;;
+1299;Piment d'Inde;FR;Schliefer;DE;;;;
+1300;Piscidiacée;FR;Schlüsselschnecke;DE;;;;
+1301;Pois de senteur;FR;Schmerle;DE;;;;
+1302;Podophyllum;FR;Schmetterling;DE;;;;
+1303;Poméranie;FR;Schmutzgeier;DE;;;;
+1304;Poireau;FR;Schnabeligel;DE;;;;
+1305;Pourpier;FR;Schnabeltier;DE;;;;
+1306;Pourpier;FR;Schnake;DE;;;;
+1307;Purpura;FR;Schnapper;DE;;;;
+1308;Saule pourpre;FR;Schnäpperwaldsänger;DE;;;;
+1309;Quebracho;FR;Schnecke;DE;;;;
+1310;Chiendent;FR;Schneeammer;DE;;;;
+1311;Chiendent;FR;Schnee-Eule;DE;;;;
+1312;Quenouille;FR;Schneefink;DE;;;;
+1313;Quillaja;FR;Schneefloh;DE;;;;
+1314;Coing;FR;Schneegans;DE;;;;
+1315;Arroche à roue;FR;Schneehöschen;DE;;;;
+1316;Tanaisie;FR;Schneehuhn;DE;;;;
+1317;Saule de Rain;FR;Schneesperling;DE;;;;
+1318;Ramtilla;FR;Schnegel;DE;;;;
+1319;Ratanhia;FR;Schneider;DE;;;;
+1320;Roquette;FR;Schnepfe;DE;;;;
+1321;Rumex;FR;Schnirkelschnecke;DE;;;;
+1322;Losange;FR;Scholle;DE;;;;
+1323;Rauwolfia;FR;Schopfwachtel;DE;;;;
+1324;Reckhölderle;FR;Schriftarassari;DE;;;;
+1325;Herbe aux hérons;FR;Schuhschnabel;DE;;;;
+1326;Bec de héron;FR;Schupp;DE;;;;
+1327;Herbe à bec de héron;FR;Schuppentier;DE;;;;
+1328;Riz;FR;Schuster;DE;;;;
+1329;radis noir;FR;Schützenfisch;DE;;;;
+1330;Rhubarbe;FR;Schwalbe;DE;;;;
+1331;Rhododendron;FR;Schwalbenschwanz;DE;;;;
+1332;Langue d'oie;FR;Schwalm;DE;;;;
+1333;Souci des jardins;FR;Schwamm;DE;;;;
+1334;Ricin;FR;Schwan;DE;;;;
+1335;Seigle;FR;Schwanzmeise;DE;;;;
+1336;Rose;FR;Schwarzkehlarassari;DE;;;;
+1337;Chou de Bruxelles;FR;Schwarzkopftukan;DE;;;;
+1338;Laurier rose;FR;Schwarzschnabeltukan;DE;;;;
+1339;Romarin;FR;Schwarzspecht;DE;;;;
+1340;Bruyère de romarin;FR;Schwarzstorch;DE;;;;
+1341;Marronnier d'Inde;FR;Schwein;DE;;;;
+1342;Trèfle rouge;FR;Schweinsaffe;DE;;;;
+1343;Renouée;FR;Schweinsfisch;DE;;;;
+1344;Renouée du Japon;FR;Schweinshai;DE;;;;
+1345;Ruprechtkraut;FR;Schweinswal;DE;;;;
+1346;Sabadille;FR;Schwertfisch;DE;;;;
+1347;Sabal;FR;Schwertwal;DE;;;;
+1348;Séneçon;FR;Schwimmwühle;DE;;;;
+1349;Sadeau;FR;Seeaal;DE;;;;
+1350;Carthame;FR;Seeadler;DE;;;;
+1351;Safran;FR;Seeanemone;DE;;;;
+1352;Saw Palmetto;FR;Seeapfel;DE;;;;
+1353;Sauge;FR;Seebär;DE;;;;
+1354;Mandarine à feuilles de sauge;FR;Seebarbe;DE;;;;
+1355;Peuplier velours;FR;Seebarsch;DE;;;;
+1356;Sandarak;FR;Seebinkel;DE;;;;
+1357;Argousier;FR;Seebrassen;DE;;;;
+1358;Laîche des sables;FR;Seebull;DE;;;;
+1359;Sanicule;FR;Seedattel;DE;;;;
+1360;Herbe de santa;FR;Seeelefant;DE;;;;
+1361;Salsepareille;FR;Seefächer;DE;;;;
+1362;Sassafras;FR;Seefeder;DE;;;;
+1363;Oseille;FR;Seegurke;DE;;;;
+1364;Oseille;FR;Seehase;DE;;;;
+1365;Herbe grasse;FR;Seehecht;DE;;;;
+1366;Prêle;FR;Seehund;DE;;;;
+1367;Achillée millefeuille;FR;Seeigel;DE;;;;
+1368;échalote;FR;Seekatze;DE;;;;
+1369;Scarole;FR;Seekuh;DE;;;;
+1370;Semblable;FR;Seelachs;DE;;;;
+1371;Faux cyprès;FR;Seelilie;DE;;;;
+1372;Pavot somnifère;FR;Seelöwe;DE;;;;
+1373;Herbe à battre;FR;Seemannshand;DE;;;;
+1374;Renouée du Serpent;FR;Seemaus;DE;;;;
+1375;Herbe aux serpents;FR;Seenadel;DE;;;;
+1376;Racine de serpent;FR;Seenelke;DE;;;;
+1377;Prunellier;FR;Seeohr;DE;;;;
+1378;Prunellier;FR;Seeotter;DE;;;;
+1379;Gypsophile;FR;Seepferdchen;DE;;;;
+1380;gypsophile;FR;Seerabe;DE;;;;
+1381;Primevère d'Autriche;FR;Seeratte;DE;;;;
+1382;Crassulacée;FR;Seeringelwurm;DE;;;;
+1383;Pied-de-biche;FR;Seescheide;DE;;;;
+1384;Schmiele;FR;Seeschlange;DE;;;;
+1385;Boule de neige;FR;Seeschmetterling;DE;;;;
+1386;Boule de neige;FR;Seeschwalbe;DE;;;;
+1387;Perce-neige;FR;Seeskorpion;DE;;;;
+1388;Fleur coupée;FR;Seespinne;DE;;;;
+1389;Chélidoine;FR;Seestachelbeere;DE;;;;
+1390;Racine d'écaille;FR;Seestern;DE;;;;
+1391;hirondelle;FR;Seetaucher;DE;;;;
+1392;Nigelle;FR;Seeteufel;DE;;;;
+1393;Salade de porc;FR;Seevogel;DE;;;;
+1394;Iris;FR;Seewalze;DE;;;;
+1395;Laîche;FR;Seewolf;DE;;;;
+1396;Soie;FR;Seezunge;DE;;;;
+1397;Daphné;FR;Segelfalter;DE;;;;
+1398;Saponaire;FR;Segler;DE;;;;
+1399;Écorce de savon;FR;Seidenfadenfisch;DE;;;;
+1400;Céleri;FR;Seidenschwanz;DE;;;;
+1401;Senega;FR;Seidenspinner;DE;;;;
+1402;Moutarde;FR;Sekretär;DE;;;;
+1403;Séné;FR;Sepia;DE;;;;
+1404;Sésame;FR;Seychellenfalke;DE;;;;
+1405;Feuille d'argent;FR;Shrimp;DE;;;;
+1406;Thaler d'argent;FR;Sichelreiher;DE;;;;
+1407;Racine d'argent;FR;Siebenschläfer;DE;;;;
+1408;Simse;FR;Siamang;DE;;;;
+1409;Simaruba;FR;Sichler;DE;;;;
+1410;Sitter;FR;Sichling;DE;;;;
+1411;Fleur de chaussette;FR;Sikahirsch;DE;;;;
+1412;Adonis d'été;FR;Silberfisch;DE;;;;
+1413;Tournesol;FR;Singvogel;DE;;;;
+1414;Héliotrope;FR;Skalar;DE;;;;
+1415;Hélianthème;FR;Skarabäus;DE;;;;
+1416;Rosée du soleil;FR;Skink;DE;;;;
+1417;Asperge;FR;Skorpion;DE;;;;
+1418;Speierling;FR;Skunk;DE;;;;
+1419;Bourdaine;FR;Sonnenbarsch;DE;;;;
+1420;épine-vinette;FR;Sonnenstern;DE;;;;
+1421;Plantain lancéolé;FR;Spanner;DE;;;;
+1422;Concombre à éclabousser;FR;Spatz;DE;;;;
+1423;Plante vivace;FR;Specht;DE;;;;
+1424;Datura;FR;Sperber;DE;;;;
+1425;Houx;FR;Sperbereule;DE;;;;
+1426;Civette des rochers;FR;Sperling;DE;;;;
+1427;Chêne vert;FR;Sperlingskauz;DE;;;;
+1428;Mélilot;FR;Spießer;DE;;;;
+1429;stellaire;FR;Spinne;DE;;;;
+1430;Pensée sauvage;FR;Spinnenläufer;DE;;;;
+1431;Rose trémière;FR;Spinner;DE;;;;
+1432;Bec de cigogne;FR;Spint;DE;;;;
+1433;Strenze;FR;Spitzhörnchen;DE;;;;
+1434;Immortelle;FR;Spitzmaus;DE;;;;
+1435;Fleur d'étudiant;FR;Spötter;DE;;;;
+1436;Hémérocalle;FR;Spottdrossel;DE;;;;
+1437;Styrax;FR;Springaffe;DE;;;;
+1438;Botryche des marais;FR;Springbock;DE;;;;
+1439;Eperon des marais;FR;Spulwurm;DE;;;;
+1440;Herbe douce;FR;Stachelmakrele;DE;;;;
+1441;Syzygium;FR;Stachelrochen;DE;;;;
+1442;Tabac;FR;Stachelschwein;DE;;;;
+1443;Tagetes;FR;Star;DE;;;;
+1444;Racine de taïga;FR;Starfrosch;DE;;;;
+1445;Tamarin;FR;Stechfliege;DE;;;;
+1446;Centaurée;FR;Stechmücke;DE;;;;
+1447;Arbre du temple;FR;Stechrochen;DE;;;;
+1448;Abondance du diable;FR;Steinadler;DE;;;;
+1449;Griffe du diable;FR;Steinbeißer;DE;;;;
+1450;Liseron du diable;FR;Steinbock;DE;;;;
+1451;Thym;FR;Steinbutt;DE;;;;
+1452;Belladone;FR;Steindohle;DE;;;;
+1453;Arbre de Tonca;FR;Steinfisch;DE;;;;
+1454;Topinambour;FR;Steinfliege;DE;;;;
+1455;Tormentille;FR;Steinforelle;DE;;;;
+1456;Traganthe;FR;Steingreßling;DE;;;;
+1457;Herbe à raisin;FR;Steinhuhn;DE;;;;
+1458;Bourdaine;FR;Steinkauz;DE;;;;
+1459;Tripmadam;FR;Steinkoralle;DE;;;;
+1460;Fleur séchée;FR;Steinkrebs;DE;;;;
+1461;Fleur de troll;FR;Steinkriecher;DE;;;;
+1462;Arbre à trompettes;FR;Steinlachs;DE;;;;
+1463;Tulipe;FR;Steinläufer;DE;;;;
+1464;Orme;FR;Steinmarder;DE;;;;
+1465;Uzara;FR;Steinpicker;DE;;;;
+1466;Violette d'Usambar [1];FR;Steinrötel;DE;;;;
+1467;Vallisnérie;FR;Steinschmätzer;DE;;;;
+1468;Vanille;FR;Steinspatz;DE;;;;
+1469;Violette;FR;Steinsperling;DE;;;;
+1470;Piège à mouches de Vénus;FR;Steinwälzer;DE;;;;
+1471;Cheveux de Vénus;FR;Stelze;DE;;;;
+1472;Verveine;FR;Stelzenläufer;DE;;;;
+1473;Myosotis;FR;Sterntaucher;DE;;;;
+1474;Renouée des oiseaux;FR;Stichling;DE;;;;
+1475;Mouron des oiseaux;FR;Stieglitz;DE;;;;
+1476;Genévrier;FR;Stier;DE;;;;
+1477;Walch;FR;Stinktier;DE;;;;
+1478;Pin sylvestre;FR;Stint;DE;;;;
+1479;Aspérule;FR;Stockente;DE;;;;
+1480;Noyer;FR;Stöcker;DE;;;;
+1481;Verruqueuse;FR;Stör;DE;;;;
+1482;Wasabi;FR;Storch;DE;;;;
+1483;Piège à eau;FR;Strandelster;DE;;;;
+1484;Fenouil d'eau;FR;Strandfliege;DE;;;;
+1485;Jacinthe d'eau;FR;Strandfloh;DE;;;;
+1486;Châtaigne d'eau;FR;Strandläufer;DE;;;;
+1487;Noix d'eau;FR;Strandpieper;DE;;;;
+1488;Pied d'eau;FR;Strandschnecke;DE;;;;
+1489;Poivre d'eau;FR;Strandwolf;DE;;;;
+1490;Laitue d'eau;FR;Streber;DE;;;;
+1491;Tuyau d'eau;FR;Streifengrasmaus;DE;;;;
+1492;Chicorée sauvage;FR;Streifenhörnchen;DE;;;;
+1493;Saule;FR;Streifenschnabelarassari;DE;;;;
+1494;Poinsettia;FR;Strömer;DE;;;;
+1495;Aubépine;FR;Stubenfliege;DE;;;;
+1496;Langue blanche;FR;Sturmschwalbe;DE;;;;
+1497;Blé;FR;Sturmtaucher;DE;;;;
+1498;Welwitschia;FR;Sturmvogel;DE;;;;
+1499;Absinthe;FR;Stute;DE;;;;
+1500;Vesce;FR;Sumpfbiber;DE;;;;
+1501;Widerbart;FR;Sumpfdeckelschnecke;DE;;;;
+1502;Fleur des prés;FR;Sumpfhase;DE;;;;
+1503;Trèfle des prés;FR;Sumpfhuhn;DE;;;;
+1504;Potamot des prés;FR;Sumpfläufer;DE;;;;
+1505;Reine des prés;FR;Sumpfmaus;DE;;;;
+1506;Plante des prés;FR;Sumpfmeise;DE;;;;
+1507;Liseron;FR;Sumpfohreule;DE;;;;
+1508;Aster d'hiver;FR;Sumpfschildkröte;DE;;;;
+1509;Verge d'hiver;FR;Swainson-Tukan;DE;;;;
+1510;Euphorbe;FR;Schwein;DE;;;;
+1511;Lycopode;FR;Tabakkäfer;DE;;;;
+1512;Linaigrette;FR;Tagfalter;DE;;;;
+1513;Fleur de vigne;FR;Tagpfauenauge;DE;;;;
+1514;Arbre miraculeux;FR;Tannenhäher;DE;;;;
+1515;Fleur miraculeuse;FR;Tanrek;DE;;;;
+1516;Angélique des plaies;FR;Tanuki;DE;;;;
+1517;Éponge à blessures;FR;Tarantel;DE;;;;
+1518;Fougère de vers;FR;Taube;DE;;;;
+1519;Igname de Chine;FR;Tausendfüßer;DE;;;;
+1520;Yohimbe;FR;Tausendfüßler;DE;;;;
+1521;Yucca;FR;Tentakel-Schluckspecht;DE;;;;
+1522;Hysope;FR;Thunfisch;DE;;;;
+1523;Rustine des dents;FR;Tieraffe;DE;;;;
+1524;Racine dentaire;FR;Tiger;DE;;;;
+1525;Hamamélis;FR;Tigerwaldsänger;DE;;;;
+1526;Rutabaga;FR;Timberwolf;DE;;;;
+1527;Liseron des champs;FR;Tintenfisch;DE;;;;
+1528;Cèdre;FR;Todis;DE;;;;
+1529;Fleur ornementale;FR;Töle;DE;;;;
+1530;Plante d'ornement;FR;Tölpel;DE;;;;
+1531;Haie d'ornement;FR;Totengräber;DE;;;;
+1532;Arbuste d'ornement;FR;Totenkopf;DE;;;;
+1533;Cytise;FR;Totenkopfäffchen;DE;;;;
+1534;Cimier;FR;Totenuhr;DE;;;;
+1535;Cinnamon;FR;Trampeltier;DE;;;;
+1536;Zinnia;FR;Triel;DE;;;;
+1537;Zinnée;FR;Truthahn;DE;;;;
+1538;Zirmet;FR;Truthuhn;DE;;;;
+1539;Citronnier;FR;Tsetse-Fliege;DE;;;;
+1540;Herbe tremblante;FR;Tsetsefliege;DE;;;;
+1541;Gingembre;FR;Tukan;DE;;;;
+1542;Canne à sucre;FR;Tundrawolf;DE;;;;
+1543;Tige de sucre;FR;Tüpfelhyäne;DE;;;;
+1544;Sureau nain;FR;Turmfalke;DE;;;;
+1545;Prunier;FR;Turteltaube;DE;;;;
+1546;Oignon;FR;Tyrann;DE;;;;
+1547;Deux feuilles;FR;Uakari;DE;;;;
+1548;cymbalaire;FR;Uferschnepfe;DE;;;;
+1549;;;Uferschwalbe;DE;;;;
+1550;;;Uhu;DE;;;;
+1551;;;Unglückshäher;DE;;;;
+1552;;;Unke;DE;;;;
+1553;;;Ur;DE;;;;
+1554;;;Urangutan;DE;;;;
+1555;;;Urpferd;DE;;;;
+1556;;;Urson;DE;;;;
+1557;;;Veilchenente;DE;;;;
+1558;;;Veilchenohrkolibri;DE;;;;
+1559;;;Veilchenperlmutterfalter;DE;;;;
+1560;;;Venusgürtel;DE;;;;
+1561;;;Vielfraß;DE;;;;
+1562;;;Vierfleck;DE;;;;
+1563;;;Vierfleckkreuzspinne;DE;;;;
+1564;;;Vierflecklibelle;DE;;;;
+1565;;;Vierkantwurm;DE;;;;
+1566;;;Vierstreifige Dickkopffliege;DE;;;;
+1567;;;Vierzehnpunkt-Marienkäfer;DE;;;;
+1568;;;Viper;DE;;;;
+1569;;;Vogel;DE;;;;
+1570;;;Vogelspinne;DE;;;;
+1571;;;Wachtel;DE;;;;
+1572;;;Wal;DE;;;;
+1573;;;Waldgärtner;DE;;;;
+1574;;;Waldgrille;DE;;;;
+1575;;;Waldkatze;DE;;;;
+1576;;;Waldkauz;DE;;;;
+1577;;;Waldrapp;DE;;;;
+1578;;;Walhai;DE;;;;
+1579;;;Walross;DE;;;;
+1580;;;Wanderfalke;DE;;;;
+1581;;;Waran;DE;;;;
+1582;;;Warzenschlange;DE;;;;
+1583;;;Warzenschwein;DE;;;;
+1584;;;Waschbär;DE;;;;
+1585;;;Wasseramsel;DE;;;;
+1586;;;Wasserbüffel;DE;;;;
+1587;;;Wasserfloh;DE;;;;
+1588;;;Wasserpieper;DE;;;;
+1589;;;Wasserschildkröte;DE;;;;
+1590;;;Wasserschnecke;DE;;;;
+1591;;;Wasserschwein;DE;;;;
+1592;;;Wasserspinne;DE;;;;
+1593;;;Wasserzwerg;DE;;;;
+1594;;;Watussirind;DE;;;;
+1595;;;Weberknecht;DE;;;;
+1596;;;Weichschildkröte;DE;;;;
+1597;;;Weidengelbkehlchen;DE;;;;
+1598;;;Weihnachtsbaumwurm;DE;;;;
+1599;;;Weinbergschnecke;DE;;;;
+1600;;;Weißfisch;DE;;;;
+1601;;;Wellensittich;DE;;;;
+1602;;;Wellhornschnecke;DE;;;;
+1603;;;Wels;DE;;;;
+1604;;;Wespe;DE;;;;
+1605;;;Wespenbussard;DE;;;;
+1606;;;Wiener Nachtpfauenauge;DE;;;;
+1607;;;Wiesel;DE;;;;
+1608;;;Wiesenralle;DE;;;;
+1609;;;Wildkaninchen;DE;;;;
+1610;;;Wildschwein;DE;;;;
+1611;;;Windhund;DE;;;;
+1612;;;Wisent;DE;;;;
+1613;;;Wolf;DE;;;;
+1614;;;Wolfsspinne;DE;;;;
+1615;;;Wombat;DE;;;;
+1616;;;Würgeschlange;DE;;;;
+1617;;;Wurm;DE;;;;
+1618;;;Wüstenheuschrecke;DE;;;;
+1619;;;Wüstenmaus;DE;;;;
+1620;;;Yak;DE;;;;
+1621;;;Yeti-Krabbe;DE;;;;
+1622;;;Yuccamotte;DE;;;;
+1623;;;Zackenbarsch;DE;;;;
+1624;;;Zander;DE;;;;
+1625;;;Zauneidechse;DE;;;;
+1626;;;Zaunkönig;DE;;;;
+1627;;;Zebra;DE;;;;
+1628;;;Zebraspringspinne;DE;;;;
+1629;;;Zebu;DE;;;;
+1630;;;zebu;DE;;;;
+1631;;;Zecke;DE;;;;
+1632;;;Ziege;DE;;;;
+1633;;;Ziesel;DE;;;;
+1634;;;Zikade;DE;;;;
+1635;;;Zitronenfalter;DE;;;;
+1636;;;Zitronenwaldsänger;DE;;;;
+1637;;;Zobel;DE;;;;
+1638;;;Zorilla;DE;;;;
+1639;;;Zweifingerfaultier;DE;;;;
+1640;;;Zwergadler;DE;;;;
+1641;;;Zwergalk;DE;;;;
+1642;;;Zwergameisenbär;DE;;;;
+1643;;;Zwergammer;DE;;;;
+1644;;;Zwergantilope;DE;;;;
+1645;;;Zwergbandwurm;DE;;;;
+1646;;;Zwergbartagame;DE;;;;
+1647;;;Zwergbeutelmarder;DE;;;;
+1648;;;Zwerg-Bläuling;DE;;;;
+1649;;;Zwergbreitrandschildkröte;DE;;;;
+1650;;;Zwergbuschbiene;DE;;;;
+1651;;;Zwergdommel;DE;;;;
+1652;;;Zwergesel;DE;;;;
+1653;;;Zwergfledermaus;DE;;;;
+1654;;;Zwergflusspferd;DE;;;;
+1655;;;Zwerghamster;DE;;;;
+1656;;;Zwergkaninchen;DE;;;;
+1657;;;Zwergkolibri;DE;;;;
+1658;;;Zwerg-Kugelfisch;DE;;;;
+1659;;;Zwerg-Langzungenflughund;DE;;;;
+1660;;;Zwergmaus;DE;;;;
+1661;;;Zwergpinguin;DE;;;;
+1662;;;Zwerg-Seepferdchen;DE;;;;
+1663;;;Zwerg-Pinscher;DE;;;;
