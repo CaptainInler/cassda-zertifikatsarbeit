@@ -1,6 +1,6 @@
 ,STR_ESID,Name,wikiQLabel,wikiQ,instance
 0,10251567,Weinlagerstrasse,Weinlager,http://www.wikidata.org/entity/Q102011549,Innerortsstraße
-1,10256874,Katja Wulff-Anlage,Katja Wulff,http://www.wikidata.org/entity/Q43267718,Mensch
+1,10256874,Katja Wulff-Anlage,Katja Wulff-Anlage,,
 2,10256872,Wibrandis Rosenblatt-Weg,Wibrandis Rosenblatt,http://www.wikidata.org/entity/Q120460,Mensch
 3,10256875,Gretel Bolliger-Promenade,Gretel Bolliger,http://www.wikidata.org/entity/Q40127518,Mensch
 4,10255061,Backstubenweg,Backstuben,,
@@ -362,7 +362,7 @@
 360,10103018,Rührbergerstrasse,Rührberger,,
 361,10025961,Vogesenstrasse,Vogesen,http://www.wikidata.org/entity/Q187843,Gebirgssystem
 362,10063842,Stöberstrasse,Stöber,http://www.wikidata.org/entity/Q2360427,Wikimedia-Begriffsklärungsseite
-363,10026782,Karl Jaspers-Allee,Karl Jaspers-Allee,,
+363,10026782,Karl Jaspers-Allee,Karl Jaspers,http://www.wikidata.org/entity/Q76509,Mensch
 364,10025919,Ingelsteinweg,Ingelstein,,
 365,10026584,Kohlistieg,Kohlistieg,,
 366,10025146,An der Auhalde,An der Auhalde,,
@@ -410,7 +410,7 @@
 408,10045928,Landhausweg,Landhaus,http://www.wikidata.org/entity/Q41254411,Haus
 409,10119840,Grosspeteranlage,Grosspeter,http://www.wikidata.org/entity/Q83353567,Familienname
 410,10055730,Schlachthofstrasse,Schlachthof,http://www.wikidata.org/entity/Q385557,Anlage
-411,10025947,St. Alban-Anlage,St. Alban,http://www.wikidata.org/entity/Q809913,Basler Quartiere
+411,10025947,St. Alban-Anlage,St. Alban-Anlage,,
 412,10087381,Krämergässchen,Krämer,http://www.wikidata.org/entity/Q1751814,Familienname
 413,10068248,Erasmusplatz,Erasmus,http://www.wikidata.org/entity/Q224321,Wikimedia-Begriffsklärungsseite
 414,10104962,Hebelplatz,Hebel,http://www.wikidata.org/entity/Q415712,Wikimedia-Begriffsklärungsseite
@@ -887,7 +887,7 @@
 885,10107051,Bäumligasse,Bäumli,,
 886,10058922,Centralbahnplatz,Centralbahn,,
 887,10087644,Im Sesselacker,Im Sesselacker,,
-888,10144809,Paul Sacher-Anlage,Paul Sacher,http://www.wikidata.org/entity/Q124102,Mensch
+888,10144809,Paul Sacher-Anlage,Paul Sacher-Anlage,,
 889,10026583,Kirchstrasse,Kirch,http://www.wikidata.org/entity/Q1217696,Wikimedia-Begriffsklärungsseite
 890,10026485,Kannenfeldplatz,Kannenfeld,,
 891,10025132,Starenstrasse,Staren,,
@@ -1052,16 +1052,16 @@
 1050,10089620,Unterer Heuberg,Unterer Heuberg,,
 1051,10179464,Baldeggerstrasse,Baldegger,http://www.wikidata.org/entity/Q15785331,Wikimedia-Begriffsklärungsseite
 1052,10025952,Schönenbuchstrasse,Schönenbuch,http://www.wikidata.org/entity/Q66508,politische Gemeinde
-1053,10222605,Margarethenbrücke,Margarethenbrücke,,
+1053,10222605,Margarethenbrücke,Margarethen,http://www.wikidata.org/entity/Q750222,Munizipium
 1054,10222714,Nauentunnel,Nauen,http://www.wikidata.org/entity/Q581994,Stadt in Deutschland
 1055,10222526,Heuwaage-Viadukt,Heuwaage-Viadukt,http://www.wikidata.org/entity/Q1616577,Bauwerk
 1056,10175729,Luzernerring,Luzerner,http://www.wikidata.org/entity/Q1645178,Wikimedia-Begriffsklärungsseite
-1057,10222774,Münchensteinerbrücke,Münchensteinerbrücke,,
-1058,10222746,Wettsteinbrücke,Wettsteinbrücke,http://www.wikidata.org/entity/Q1597642,Straßenbrücke
+1057,10222774,Münchensteinerbrücke,Münchensteiner,,
+1058,10222746,Wettsteinbrücke,Wettstein,http://www.wikidata.org/entity/Q809916,Basler Quartiere
 1059,10222534,Wettsteinstrasse,Wettstein,http://www.wikidata.org/entity/Q809916,Basler Quartiere
-1060,10222617,Markthallenbrücke,Markthallenbrücke,,
+1060,10222617,Markthallenbrücke,Markthallen,http://www.wikidata.org/entity/Q104710935,PM20 Sach-Systemaikstelle
 1061,10145760,Dorenbachviadukt,Dorenbachviadukt,http://www.wikidata.org/entity/Q1243895,Straßenbrücke
-1062,10222664,Schwarzwaldbrücke,Schwarzwaldbrücke,http://www.wikidata.org/entity/Q2254477,Straßenbrücke
+1062,10222664,Schwarzwaldbrücke,Schwarzwald,http://www.wikidata.org/entity/Q4204,Wald
 1063,10089597,Spalenring,Spalen,,
 1064,10256877,Urbana Iulia-Strasse,Urbana Iulia,,
 1065,10256873,Emilie Louise Frey-Strasse,Emilie Louise Frey,http://www.wikidata.org/entity/Q96364286,Mensch
@@ -1094,7 +1094,7 @@
 1092,10246146,Gewerbeareal im Rüchlig,Gewerbeareal im Rüchlig,,
 1093,10222716,Fuchsweg,Fuchs,http://www.wikidata.org/entity/Q8331,"Lebewesen, die unter einem bestimmten Trivialnamen bekannt sind"
 1094,10222703,Bläsianlage,Bläsi,http://www.wikidata.org/entity/Q886976,Wikimedia-Begriffsklärungsseite
-1095,10026787,Mühlegraben,Mühle,http://www.wikidata.org/entity/Q41348353,Ensemble
+1095,10026787,Mühlegraben,Mühle,http://www.wikidata.org/entity/Q209669,Brettspiel
 1096,10110165,Andreasplatz,Andreas,http://www.wikidata.org/entity/Q43399,menschliche Bibelfigur
 1097,10222660,Tschudi-Park,Tschudi,http://www.wikidata.org/entity/Q451579,Wikimedia-Begriffsklärungsseite
 1098,10222686,Im Triangel,Im Triangel,,
@@ -1114,7 +1114,7 @@
 1112,10222792,Rappenbodenweg-Promenade,Rappenbodenweg,,
 1113,10222582,In der Eisernen Hand,In der Eisernen Hand,,
 1114,10222697,Zollfreie Strasse,Zollfreie Strasse,,
-1115,10222648,Schlachthofbrücke,Schlachthofbrücke,http://www.wikidata.org/entity/Q2237859,Wikimedia-Begriffsklärungsseite
+1115,10222648,Schlachthofbrücke,Schlachthof,http://www.wikidata.org/entity/Q385557,Anlage
 1116,10222594,In der Muelte,In der Muelte,,
 1117,10222682,Wiesentunnel,Wiesen,http://www.wikidata.org/entity/Q288569,Gemeinde in Deutschland
 1118,10222786,Zwölfjuchartenweglein,Zwölfjuchartenweglein,,
@@ -1166,7 +1166,7 @@
 1164,10222495,Stapfelwegli,Stapfelwegli,,
 1165,10222659,Ob der Wanne,Ob der Wanne,,
 1166,10238193,Bosenhaldenwegli,Bosenhaldenwegli,,
-1167,10222736,Cécile Ines Loos-Anlage,Cécile Ines Loos,http://www.wikidata.org/entity/Q1150116,Mensch
+1167,10222736,Cécile Ines Loos-Anlage,Cécile Ines Loos-Anlage,,
 1168,10222809,Reservoirweglein,Reservoirweglein,,
 1169,10222698,Erlensteg,Erlen,http://www.wikidata.org/entity/Q25239,Taxon
 1170,10222740,Cedernweg,Cedern,,
@@ -1207,7 +1207,7 @@
 1205,10222587,Finkenweg,Finken,http://www.wikidata.org/entity/Q160835,Taxon
 1206,10222700,Mülhauserweglein,Mülhauserweglein,,
 1207,10222758,Pfalz,Pfalz,http://www.wikidata.org/entity/Q185439,Weinbaugebiet
-1208,10222621,Mittlere Rheinbrücke,Mittlere Rheinbrücke,,
+1208,10222621,Mittlere Rheinbrücke,Mittlere Rhein,,
 1209,10222720,Gehrhaldenweg,Gehrhalden,,
 1210,10222696,Im Ebacker,Im Ebacker,,
 1211,10222516,Bärlauchwegli,Bärlauchwegli,,
@@ -1229,7 +1229,7 @@
 1227,10222642,Buremichelskopfanlage,Buremichelskopf,,
 1228,10222571,Haidweg,Haid,http://www.wikidata.org/entity/Q962150,Wikimedia-Begriffsklärungsseite
 1229,10222551,Bruckwegli,Bruckwegli,,
-1230,10222540,Johanniterbrücke,Johanniterbrücke,http://www.wikidata.org/entity/Q1547778,Straßenbrücke
+1230,10222540,Johanniterbrücke,Johanniter,http://www.wikidata.org/entity/Q3355519,Wikimedia-Begriffsklärungsseite
 1231,10222611,Unterer Haidweg,Unterer Haid,,
 1232,10222567,Erlenparksteg,Erlenpark,,
 1233,10222632,Archivgässlein,Archiv,http://www.wikidata.org/entity/Q59613850,Wikimedia-Begriffsklärungsseite
@@ -1269,14 +1269,14 @@
 1267,10222745,Wiesenkreisel,Wiesen,http://www.wikidata.org/entity/Q288569,Gemeinde in Deutschland
 1268,10241657,Attila-Passage,Attila,http://www.wikidata.org/entity/Q36724,Mensch
 1269,10222593,Luzernerring-Brücke,Luzernerring,http://www.wikidata.org/entity/Q110586268,Straßenbahnhaltestelle
-1270,10222653,Ursula Hebel-Wegli,Ursula Hebel-Wegli,,
+1270,10222653,Ursula Hebel-Wegli,Ursula Hebel,http://www.wikidata.org/entity/Q113732249,Mensch
 1271,10222482,Klingentalweglein,Klingentalweglein,,
 1272,10246977,Friedrich Miescher-Weg,Friedrich Miescher,http://www.wikidata.org/entity/Q116072,Mensch
 1273,10222771,Sägebergweglein,Sägebergweglein,,
 1274,10222753,Wild Ma-Gässli,Wild Ma-Gässli,,
 1275,10222631,Grimselweglein,Grimselweglein,,
 1276,10222579,Im Rumpel,Im Rumpel,,
-1277,10222805,Redingbrücke,Redingbrücke,,
+1277,10222805,Redingbrücke,Reding,http://www.wikidata.org/entity/Q417401,Wikimedia-Begriffsklärungsseite
 1278,10222649,Stumpgässchen,Stump,http://www.wikidata.org/entity/Q1902383,Wikimedia-Begriffsklärungsseite
 1279,10222643,Thiersteinerweglein,Thiersteinerweglein,,
 1280,10222569,Bellinzonaweglein,Bellinzonaweglein,,
@@ -1298,7 +1298,7 @@
 1296,10222547,Kannenfeldpark,Kannenfeld,,
 1297,10222509,Lachenalweglein,Lachenalweglein,,
 1298,10222760,Beuggenweg,Beuggen,http://www.wikidata.org/entity/Q850909,Familie
-1299,10222726,Gertrud Späth-Wegli,Gertrud Späth-Wegli,,
+1299,10222726,Gertrud Späth-Wegli,Gertrud Späth,,
 1300,10222492,Spittlerwegli,Spittlerwegli,,
 1301,10222578,Hellringwegli,Hellringwegli,,
 1302,10222840,Friedmattweglein,Friedmattweglein,,
@@ -1328,7 +1328,7 @@
 1326,10222608,Solitude-Promenade,Solitude,http://www.wikidata.org/entity/Q765891,Wikimedia-Begriffsklärungsseite
 1327,10222673,Vogel Gryff-Gässli,Vogel Gryff-Gässli,,
 1328,10222623,Langoldshaldenweg,Langoldshalden,,
-1329,10222834,Flamingosteg,Flamingo,http://www.wikidata.org/entity/Q225532,Wikimedia-Begriffsklärungsseite
+1329,10222834,Flamingosteg,Flamingo,http://www.wikidata.org/entity/Q41994,Taxon
 1330,10222763,Rümelins-Passage,Rümelins,,
 1331,10222598,In der Vorstadt,In der Vorstadt,http://www.wikidata.org/entity/Q19213263,Gedicht
 1332,10222727,Bahnhof-Passerelle,Bahnhof-Passerelle,,
@@ -1376,7 +1376,7 @@
 1374,10222550,Horburgplatz,Horburg,http://www.wikidata.org/entity/Q1628021,Siedlung
 1375,10238202,Sperberwegli,Sperberwegli,,
 1376,10222559,Brunnstubenwegli,Brunnstubenwegli,,
-1377,10222822,Anna Fischer-Wegli,Anna Fischer-Wegli,,
+1377,10222822,Anna Fischer-Wegli,Anna Fischer,http://www.wikidata.org/entity/Q99913,Mensch
 1378,10222662,Weihersteg,Weiher,http://www.wikidata.org/entity/Q385495,Wikimedia-Begriffsklärungsseite
 1379,10238203,Stettenwegli,Stettenwegli,,
 1380,10222522,Heuwaage,Heuwaage,http://www.wikidata.org/entity/Q41218565,Ensemble
@@ -1402,7 +1402,7 @@
 1400,10222722,Buschweilerweglein,Buschweilerweglein,,
 1401,10222699,Dorenbach-Promenade,Dorenbach,http://www.wikidata.org/entity/Q1243893,Fluss
 1402,10222733,Batterieanlage,Batterie,http://www.wikidata.org/entity/Q208543,Wikimedia-Begriffsklärungsseite
-1403,10222829,Arnold Hof-Wegli,Arnold Hof-Wegli,,
+1403,10222829,Arnold Hof-Wegli,Arnold Hof,,
 1404,10222520,Ebowegli,Ebowegli,,
 1405,10222658,Wackernagel-Park,Wackernagel,http://www.wikidata.org/entity/Q2538600,Wikimedia-Begriffsklärungsseite
 1406,10222675,Pelikanweglein,Pelikanweglein,,
@@ -1413,16 +1413,16 @@
 1411,10222826,Otto Wenk-Platz,Otto Wenk,,
 1412,10222597,Magdenweglein,Magdenweglein,,
 1413,10222541,Hohe Winde-Steg,Hohe Winde,http://www.wikidata.org/entity/Q1623566,Berg
-1414,10222790,Eisenbahnbrücke,Eisenbahnbrücke,http://www.wikidata.org/entity/Q2041385,Eisenbahnbrücke
+1414,10222790,Eisenbahnbrücke,Eisenbahn,http://www.wikidata.org/entity/Q1311394,Wikimedia-Begriffsklärungsseite
 1415,10238194,Chrischonawegli,Chrischonawegli,,
 1416,10222524,Eliaswegli,Eliaswegli,,
-1417,10222715,Dreirosenbrücke,Dreirosenbrücke,http://www.wikidata.org/entity/Q687157,Fachwerkbrücke
+1417,10222715,Dreirosenbrücke,Dreirosen,,
 1418,10238199,Keltenwegli,Keltenwegli,,
 1419,10222843,Galgenhügel-Promenade,Galgenhügel,http://www.wikidata.org/entity/Q30712767,Hügelgrab
 1420,10238190,Bachtelenwegli,Bachtelenwegli,,
 1421,10222501,Courvoisierwegli,Courvoisierwegli,,
 1422,10222831,Giornico-Promenade,Giornico,http://www.wikidata.org/entity/Q67763,politische Gemeinde
-1423,10222825,Anna Maria Wettstein-Wegli,Anna Maria Wettstein-Wegli,,
+1423,10222825,Anna Maria Wettstein-Wegli,Anna Maria Wettstein,,
 1424,10222530,Höhenwegli,Höhenwegli,,
 1425,10222635,Guisan-Promenade,Guisan,http://www.wikidata.org/entity/Q1554147,Wikimedia-Begriffsklärungsseite
 1426,10222752,Rosenfeldpark,Rosenfeld,http://www.wikidata.org/entity/Q146373,Stadt in Deutschland

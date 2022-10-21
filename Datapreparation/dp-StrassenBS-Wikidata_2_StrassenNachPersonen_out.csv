@@ -1,5 +1,4 @@
 ,STR_ESID,Name,wikiQLabel,wikiQ,instance
-1,10256874,Katja Wulff-Anlage,Katja Wulff,http://www.wikidata.org/entity/Q43267718,Mensch
 2,10256872,Wibrandis Rosenblatt-Weg,Wibrandis Rosenblatt,http://www.wikidata.org/entity/Q120460,Mensch
 3,10256875,Gretel Bolliger-Promenade,Gretel Bolliger,http://www.wikidata.org/entity/Q40127518,Mensch
 7,10255060,Helli Stehle-Weg,Helli Stehle,http://www.wikidata.org/entity/Q22687790,Mensch
@@ -20,6 +19,7 @@
 294,10077452,Albert Schweitzer-Strasse,Albert Schweitzer,http://www.wikidata.org/entity/Q49325,Mensch
 324,10026531,Lukas Legrand-Strasse,Lukas Legrand,http://www.wikidata.org/entity/Q21544966,Mensch
 334,10110172,Wilhelm Klein-Strasse,Wilhelm Klein,http://www.wikidata.org/entity/Q94729,Mensch
+363,10026782,Karl Jaspers-Allee,Karl Jaspers,http://www.wikidata.org/entity/Q76509,Mensch
 369,10025143,Talweg,Tal,http://www.wikidata.org/entity/Q453841,Mensch
 371,10155187,Peter Merian-Weg,Peter Merian,http://www.wikidata.org/entity/Q2077023,Mensch
 383,10087607,Julia Gauss-Strasse,Julia Gauss,http://www.wikidata.org/entity/Q1711843,Mensch
@@ -39,7 +39,6 @@
 796,10026521,Eugen Wullschleger-Strasse,Eugen Wullschleger,http://www.wikidata.org/entity/Q1372980,Mensch
 831,10200636,Max Kämpf-Platz,Max Kämpf,http://www.wikidata.org/entity/Q122519,Mensch
 865,10063518,Fritz Hauser-Strasse,Fritz Hauser,http://www.wikidata.org/entity/Q681957,Mensch
-888,10144809,Paul Sacher-Anlage,Paul Sacher,http://www.wikidata.org/entity/Q124102,Mensch
 906,10026186,Theodor Herzl-Strasse,Theodor Herzl,http://www.wikidata.org/entity/Q44003,Mensch
 932,10125845,Rudolfstrasse,Rudolf,http://www.wikidata.org/entity/Q519491,Mensch
 1022,10087916,Oscar Frey-Strasse,Oscar Frey,http://www.wikidata.org/entity/Q1383856,Mensch
@@ -54,10 +53,11 @@
 1084,10222601,Maja Sacher-Platz,Maja Sacher,http://www.wikidata.org/entity/Q1885994,Mensch
 1099,10251565,Hermann Hesse-Platz,Hermann Hesse,http://www.wikidata.org/entity/Q25973,Mensch
 1102,10206940,Meret Oppenheim-Platz,Meret Oppenheim,http://www.wikidata.org/entity/Q61594,Mensch
-1167,10222736,Cécile Ines Loos-Anlage,Cécile Ines Loos,http://www.wikidata.org/entity/Q1150116,Mensch
 1195,10222574,Heinrich Heusser-Weg,Heinrich Heusser,http://www.wikidata.org/entity/Q94908916,Mensch
 1214,10222680,Peter Merian-Brücke,Peter Merian,http://www.wikidata.org/entity/Q2077023,Mensch
 1268,10241657,Attila-Passage,Attila,http://www.wikidata.org/entity/Q36724,Mensch
+1270,10222653,Ursula Hebel-Wegli,Ursula Hebel,http://www.wikidata.org/entity/Q113732249,Mensch
 1272,10246977,Friedrich Miescher-Weg,Friedrich Miescher,http://www.wikidata.org/entity/Q116072,Mensch
 1289,10222751,Christoph Merian-Park,Christoph Merian,http://www.wikidata.org/entity/Q122485,Mensch
+1377,10222822,Anna Fischer-Wegli,Anna Fischer,http://www.wikidata.org/entity/Q99913,Mensch
 1384,10222759,Rudolf Steiner-Weg,Rudolf Steiner,http://www.wikidata.org/entity/Q78484,Mensch
