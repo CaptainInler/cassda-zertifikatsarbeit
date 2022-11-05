@@ -270,7 +270,7 @@ DIC_UID;DIC_Berufe;DIC_Lebewesen;DIC_Ortschaft;DIC_Gewässer;DIC_Berge
 269;Elektroniker für Geräte und Systeme, Elektronikerin für Geräte und Systeme;Hauhechel;Guntalingen;;Engelberger Rotstock
 270;Elektroniker für luftfahrttechnische Systeme, Elektronikerin für luftfahrttechnische Systeme;Hauswurz;Unterstammheim;;Etzel
 271;Elektroniker für Maschinen- und Antriebstechnik, Elektronikerin für Maschinen- und Antriebstechnik;Hechtkraut;Oberstammheim;;Fänerenspitz
-272;Elektrotechnische Assistentin, Elektrotechnischer Assistent;Heckenrose;Wilen b. Neunforn;;Faulhorn
+272;Elektrotechnische Assistentin, Elektrotechnischer Assistent;Rosier;Wilen b. Neunforn;;Faulhorn
 273;Energieelektroniker, Energieelektronikerin;Hederich;Au ZH;;Fellihorn
 274;Entomologe, Entomologin;Heidekraut;Wädenswil;;Calanda
 275;Entwickler, Entwicklerin;Heidelbeere;Schönenberg ZH;;Fil de Cassons
@@ -1780,7 +1780,7 @@ DIC_UID;DIC_Berufe;DIC_Lebewesen;DIC_Ortschaft;DIC_Gewässer;DIC_Berge
 ;Aide-relieur;Batakpony;Teufen AR;;
 ;Aide-sellier;Bauin;Lustmühle;;
 ;Aide-serrurier;Baumameisenfresser;Trogen;;
-;Aide-serrurier en bâtiment;Baumfalke;Grub AR;;
+;Aide-serrurier en bâtiment;Falke;Grub AR;;
 ;Aide-soignant;Baumfrosch;Heiden;;
 ;Aide-soignant pour handicapés;Baumkänguru;Wienacht-Tobel;;
 ;Aide-sommelier;Baumläuferwaldsänger;Lutzenberg;;
@@ -2697,12 +2697,12 @@ DIC_UID;DIC_Berufe;DIC_Lebewesen;DIC_Ortschaft;DIC_Gewässer;DIC_Berge
 ;Assistant de bureau;Pillendreher;Märwil;;
 ;Assistant de catering;Pinguin;Buch b. Märwil;;
 ;Assistant de contrôleur de la circulation aérienne;Polarbär;Bettwiesen;;
-;Assistant de crèche;Polarfuchs;Balterswil;;
-;Assistant de cuisine;Polyp;Bichelsee;;
+;Assistant de crèche;Fourmi;Balterswil;;
+;Assistant de cuisine;Abeille;Bichelsee;;
 ;Assistant de curé;Pottwal;Braunau;;
-;Assistant de direction;Primat;Eschlikon TG;;
+;Assistant de direction;Primel;Eschlikon TG;;
 ;Assistant de direction d'hôtel;Puma;Wallenwil;;
-;Assistant de distribution;Purpurbär;Dussnang;;
+;Assistant de distribution;Vignes;Dussnang;;
 ;Assistant de douane;Purpurbock;Oberwangen TG;;
 ;Assistant de galerie;Purpurkopfbarbe;Fischingen;;
 ;Assistant de galerie d'art;Pute;Au TG;;
@@ -2814,7 +2814,7 @@ DIC_UID;DIC_Berufe;DIC_Lebewesen;DIC_Ortschaft;DIC_Gewässer;DIC_Berge
 ;Assistant paroissial;Schermaus;Marolta;;
 ;Assistant pastoral;Schildkröte;Ponto Valentino;;
 ;Assistant postal;Schildlaus;Largario;;
-;Assistant pour handicapés;Schill;Dangio;;
+;Assistant pour handicapés;Rosier;Dangio;;
 ;Assistant pour personnes âgées;Schimmel;Torre;;
 ;Assistant pour personnes âgées, soins à domicile;Schimpanse;Olivone;;
 ;Assistant psycho-technique;Schäfer;Camperio;;
@@ -3208,7 +3208,7 @@ DIC_UID;DIC_Berufe;DIC_Lebewesen;DIC_Ortschaft;DIC_Gewässer;DIC_Berge
 ;Ausiliario di cucina;;Bretigny-sur-Morrens;;
 ;Ausiliario di laboratorio d'ospedale;;Cugy VD;;
 ;Ausiliario di polizia;;Echallens;;
-;Ausiliario di pulizia;;Essertines-sur-Yverdon;;
+;Ausiliario di pulizia;;Yverdon;;
 ;Ausiliario di servizio (ristorante);;Epautheyres;;
 ;Ausiliario di trasporto/barelliere;;Etagnières;;
 ;Ausiliario di vendita;;Fey;;
@@ -3441,7 +3441,7 @@ DIC_UID;DIC_Berufe;DIC_Lebewesen;DIC_Ortschaft;DIC_Gewässer;DIC_Berge
 ;Bachelor en International Business Management;;Palézieux-Village;;
 ;Bachelor en International Financial Management;;Les Tavernes;;
 ;Bachelor en International Management;;Les Thioleyres;;
-;Bachelor en interprétation musicale;;Oron-le-Châtel;;
+;Bachelor en interprétation musicale;;Oron;;
 ;Bachelor en interprétation musicale spécialisée;;Bussigny-sur-Oron;;
 ;Bachelor en langues appliquées;;Chesalles-sur-Oron;;
 ;Bachelor en lettres;;Oron-la-Ville;;
