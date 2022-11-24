@@ -8,12 +8,12 @@ Etymologie von Strassennamen der Schweiz
 
 ## JupyterLab in Docker
 Um die Notebooks in diesem Repo erfolgreich zu nutzen, werden gewisse Pythonpackages benötigt.
-Der lokalen Jupyterinstallation sind diesen mittels pip hinzuzufügen.
+Der lokalen JupyterLabinstallation sind diesen mittels pip hinzuzufügen.
 Die benötigten packages sind in der requirements.txt Datei aufgelistet.
 
-Alternativ kann mit dem beigefügten Dockerfile ein Dockercontainer erstellt werden in welchem ein Jupyter Notebook gestartet wird.
+Alternativ kann mit dem beigefügten Dockerfile ein Dockercontainer erstellt werden in welchem ein JupyterLab Instanz gestartet wird.
 In diesem Container sind sämtliche benötigten Packages enthalten.
-Um den Container und Jupyter laufen zu lassen, ist wie folgt vorzugehen:
+Um den Container und JupyterLab laufen zu lassen, ist wie folgt vorzugehen:
 1. In der Eingabeaufforderung an den Ort des Dockerfiles navigieren.
 2. Docker Image erstellen. `docker build -t cassda/streetnames .`
 3. Docker Container laufen lassen (Linux): `docker run --rm -p 8888:8888 -v "${PWD}":/home/jovyan/work cassda/streetnames`
